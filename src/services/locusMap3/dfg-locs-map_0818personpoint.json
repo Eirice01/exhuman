@@ -1,0 +1,55 @@
+{
+  "centers": [
+    117.536740691993,
+    36.7672217522261
+  ],
+  "features": [
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-08 8:54:16",
+          "address": "济南市章丘区平普路七郎院村",
+          "endTime": "2019-11-08 14:05:16"
+        },
+        "icon": "工作地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "工作地：4h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.536740691993,
+          36.7672217522261
+        ]
+      }
+    },
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-08 16:30:19",
+          "address": "济南市章丘区明水后营",
+          "endTime": "2019-11-08 19:25:39"
+        },
+        "icon": "停留地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "停留地：3h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.526731429527,
+          36.7661453689938
+        ]
+      }
+    }
+  ],
+  "type": "FeatureCollection"
+}

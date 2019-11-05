@@ -1,0 +1,170 @@
+{
+  "centers": [
+    117.126025595442,
+    36.6311978051645
+  ],
+  "features": [
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-08 08:14:15",
+          "address": "新孟家",
+          "endTime": "2019-11-08 10:44:23"
+        },
+        "icon": "停留地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "停留地：2h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.126025595442,
+          36.6311978051645
+        ]
+      }
+    },
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-08 10:49:01",
+          "address": "市府东楼",
+          "endTime": "2019-11-08 11:37:22"
+        },
+        "icon": "停留地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "停留地：1h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.121530046355,
+          36.6527942099764
+        ]
+      }
+    },
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-08 11:48:29",
+          "address": "锦屏家园老石沟",
+          "endTime": "2019-11-08 13:01:08"
+        },
+        "icon": "停留地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "停留地：1h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.12122745418601,
+          36.6294215111188
+        ]
+      }
+    },
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-08 13:25:06",
+          "address": "奥龙官邸号楼",
+          "endTime": "2019-11-08 15:59:27"
+        },
+        "icon": "居住地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "居住地：3h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.12946391052101,
+          36.6524172441664
+        ]
+      }
+    },
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-08 16:02:46",
+          "address": "市府西楼",
+          "endTime": "2019-11-08 18:02:32"
+        },
+        "icon": "停留地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "停留地：2h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.118530704765,
+          36.6517955386022
+        ]
+      }
+    },
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-08 19:46:02",
+          "address": "警察博物馆",
+          "endTime": "2019-11-08 21:09:13"
+        },
+        "icon": "停留地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "停留地：2h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.132613128122,
+          36.649091949439004
+        ]
+      }
+    },
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-08 22:23:14",
+          "address": "济南市公安局东楼",
+          "endTime": "2019-11-08 23:09:49"
+        },
+        "icon": "停留地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "停留地：1h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.126675264496,
+          36.6488397172381
+        ]
+      }
+    }
+  ],
+  "type": "FeatureCollection"
+}

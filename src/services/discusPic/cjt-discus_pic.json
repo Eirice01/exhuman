@@ -1,0 +1,29 @@
+{
+  "data": [
+    {
+      "name": "报复",
+      "emotionalState": 0.2,
+      "value": "报复社会",
+      "number": 1
+    },
+    {
+      "name": "白死",
+      "emotionalState": 0.2,
+      "value": "我不能白死",
+      "number": 2
+    },
+    {
+      "name": "拉垫背",
+      "emotionalState": 0.2,
+      "value": "死也要拉垫背的",
+      "number": 3
+    },
+    {
+      "name": "活该",
+      "emotionalState": 0.4,
+      "value": "他们活该",
+      "number": 4
+    }
+  ],
+  "mianWord": "消极负面"
+}

@@ -1,0 +1,105 @@
+{ "centers":[116.7988300323,36.6173877066],
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "message":{
+          "startTime":"2019-08-16 07:34:15",
+          "endTime":"2019-08-16 09:30:05",
+          "address":"山东省济南市长清区平安街道"
+        },
+        "description":"居住地：5h",
+        "icon":"居住地.png",
+        "iconSize": [40, 40]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.7861100000,
+          36.6255600000
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "message":{
+          "startTime":"2019-08-16 11:50:10",
+          "endTime":"2019-08-16 14:40:05",
+          "address":"山东省济南市长清区平安街道新李村"
+        },
+        "description":"敏感地：4h",
+        "icon":"敏感地.png",
+        "iconSize": [40, 40]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.7932900000,
+          36.6205300000
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "message":{
+          "startTime":"2019-08-16 15:10:10",
+          "endTime":"2019-08-16 22:40:05",
+          "address":"山东省济南市长清区平安街道韩庄村"
+        },
+        "description":"工作地：8h",
+        "icon":"workPlace.png",
+        "iconSize": [40, 40]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.7993000000,
+          36.6263400000
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "message":{
+          "startTime":"2019-08-16 23:10:10",
+          "endTime":"2019-08-16 23:40:05",
+          "address":"山东省济南市槐荫区220国道"
+        },
+        "description":"消失：0.5h",
+        "icon":"消失.png",
+        "iconSize": [40, 40]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.8494000000,
+          36.6448900000
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "message":{
+          "startTime":"2019-08-16 15:50:10",
+          "endTime":"2019-08-16 16:40:05",
+          "address":"山东省济南市长清区平安街道藤屯村"
+        },
+        "description":"外出长时间停留点：1h",
+        "icon":"外出长时间停留点.png",
+        "iconSize": [40, 40]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.8034800000,
+          36.6200900000
+        ]
+      }
+    }
+  ]
+}

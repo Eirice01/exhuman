@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "address": "姚家村",
+    "type": "居住地",
+    "cuntPic": "2"
+  },
+  {
+    "id": "2",
+    "address": "黄河乡东南李村",
+    "type": "停留地",
+    "cuntPic": "1"
+  },
+  {
+    "id": "4",
+    "address": "小许家立交",
+    "type": "停留地",
+    "cuntPic": "1"
+  },
+  {
+    "id": "5",
+    "address": "消防基地",
+    "type": "敏感地",
+    "cuntPic": "1"
+  }
+]

@@ -1,0 +1,101 @@
+{
+  "centers": [
+    116.96229175830901,
+    36.6533370495341
+  ],
+  "features": [
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-06 07:05:31",
+          "address": "联通槐荫区福牌阿胶",
+          "endTime": "2019-11-06 10:02:51"
+        },
+        "icon": "工作地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "工作地：3h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.96229175830901,
+          36.6533370495341
+        ]
+      }
+    },
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-06 11:31:51",
+          "address": "景润园小区",
+          "endTime": "2019-11-06 14:27:34"
+        },
+        "icon": "居住地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "居住地：3h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.96832701170901,
+          36.689825958855195
+        ]
+      }
+    },
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-06 15:41:29",
+          "address": "济微路二环南路交叉口",
+          "endTime": "2019-11-06 18:32:51"
+        },
+        "icon": "停留地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "停留地：3h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.957197404384,
+          36.6116032863157
+        ]
+      }
+    },
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-06 19:25:31",
+          "address": "五环花苑",
+          "endTime": "2019-11-06 21:18:55"
+        },
+        "icon": "停留地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "停留地：3h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.973338911832,
+          36.6827982614658
+        ]
+      }
+    }
+  ],
+  "type": "FeatureCollection"
+}

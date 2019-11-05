@@ -1,0 +1,106 @@
+{
+  "centers":[117.0104685646,36.6356788833],
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "message":{
+          "startTime":"2019-08-17 06:34:15",
+          "endTime":"2019-08-17 09:20:05",
+          "address":"山东省济南市历下区马鞍山路2号"
+        },
+        "description":"居住地：3h",
+        "icon":"居住地.png",
+        "iconSize": [40, 40]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.0114341599,
+          36.6409303661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "message":{
+          "startTime":"2019-08-17 10:20:10",
+          "endTime":"2019-08-17 12:20:05",
+          "address":"山东省济南市历下区玉函路22号"
+        },
+        "description":"敏感地：2h",
+        "icon":"敏感地.png",
+        "iconSize": [40, 40]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.0085978418,
+          36.6378406655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "message":{
+          "startTime":"2019-08-17 13:30:10",
+          "endTime":"2019-08-17 20:40:05",
+          "address":"山东省济南市历下区玉函路30号"
+        },
+        "description":"工作地：8h",
+        "icon":"workPlace.png",
+        "iconSize": [40, 40]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.0073532968,
+          36.6359810898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "message":{
+          "startTime":"2019-08-17 21:40:10",
+          "endTime":"2019-08-17 22:40:05",
+          "address":"山东省济南市历下区经十路106号"
+        },
+        "description":"消失：1h",
+        "icon":"消失.png",
+        "iconSize": [40, 40]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.0090705806,
+          36.6328185704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "message":{
+          "startTime":"2019-08-17 23:10:10",
+          "endTime":"2019-08-17 23:55:05",
+          "address":"舜耕路13号"
+        },
+        "description":"外出长时间停留点：1h",
+        "icon":"外出长时间停留点.png",
+        "iconSize": [40, 40]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.0104477769,
+          36.6314831894
+        ]
+      }
+    }
+  ]
+}

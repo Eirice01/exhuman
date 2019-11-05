@@ -1,0 +1,32 @@
+[
+  {
+    "id" : "1",
+    "type": "居住地",
+    "address" : "南郊宾馆 ",
+    "cuntPic": "1"
+  },
+  {
+    "id" : "2",
+    "type": "敏感地",
+    "address" : "玉函路社区",
+    "cuntPic": "1"
+  },
+  {
+    "id" : "3",
+    "type": "工作地",
+    "address" : "玉秀康乐园",
+    "cuntPic": "1"
+  },
+  {
+    "id" : "4",
+    "type": "消失",
+    "address" : "牡丹园",
+    "cuntPic": "1"
+  },
+  {
+    "id" : "5",
+    "type": "外出长时间停留点",
+    "address" : "舜耕路13号",
+    "cuntPic": "1"
+  }
+]

@@ -1,0 +1,44 @@
+{
+  "tags": [
+    {
+      "title": "情绪长期负面",
+      "color": "#088ce2",
+      "borColor": "#2f75d2",
+      "bg": "#0e233e"
+    }
+  ],
+  "discusCunt": "79%",
+  "locusDisper": "未消失",
+  "tel": "15910101957",
+  "cation": [
+    "通联习惯无太大异常"
+  ],
+  "locusAddress": [
+    "进出西客站地块：于2019年11月10日,进入西客站地块-号楼"
+  ],
+  "message": [
+    ""
+  ],
+  "discus": [
+    "催眠",
+    "假的",
+    "骗子"
+  ],
+  "abover": "6%",
+  "address": "西客站安置一区地块号楼",
+  "search": [
+    "催眠",
+    "头痛",
+    "自杀"
+  ],
+  "name": "刘能",
+  "radius": "75%",
+  "specialAddress": [
+    "频繁出入西客站地块-号楼"
+  ],
+  "warning": 1,
+  "sensitiveWords": [
+    "自杀",
+    "跟踪"
+  ]
+}

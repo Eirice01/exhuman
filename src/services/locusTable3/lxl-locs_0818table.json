@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "address": "开山村",
+    "type": "居住地",
+    "cuntPic": "1"
+  },
+  {
+    "id": "2",
+    "address": "辛寨鲍家",
+    "type": "停留地",
+    "cuntPic": "1"
+  },
+  {
+    "id": "3",
+    "address": "吉家",
+    "type": "工作地",
+    "cuntPic": "1"
+  },
+  {
+    "id": "4",
+    "address": "圣翰财经学院食堂楼",
+    "type": "敏感地",
+    "cuntPic": "1"
+  }
+]

@@ -1,0 +1,37 @@
+.multi-select{
+    min-height:30px;
+    line-height:30px;
+    color:#87bcde;
+    padding:0px 5px;
+    border:1px solid #2775a6;
+    .multi-select-dropdown{
+        border-top:1px dashed #2775a6;
+        padding:5px 0px;
+        .select-option{
+            cursor: pointer;
+            &:hover{
+                background:#1a2d57;
+            }
+            .checkbox-span{
+                display:inline-block;
+                width:18px;
+                height:18px;
+                text-align: center;
+                line-height:18px;
+                border:1px solid #2775a6;
+                margin-right:10px;
+                cursor: pointer;
+            }
+        }
+    }
+    .multi-select-dropdown-hidden {
+        display:none;
+    }
+    .multi-select-arrow{
+        width:20px;
+        font-size:16px;
+        float:right;
+        cursor: pointer;
+        user-select: none;
+    }
+}

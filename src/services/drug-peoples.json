@@ -1,0 +1,167 @@
+[
+  {
+    "id": "#12",
+    "name": "郭祖凯",
+    "label": "活够了",
+    "?percent": 78,
+    "collect": false,
+    "tel": "19856361353",
+    "idCard": "370100197202125366",
+    "?aberrant": [
+      {
+        "label": "在控重点人",
+        "value": "Blue"
+      }
+    ],
+    "AbnormalBehavior": "异常位置极高，频繁出入敏感地"
+  },
+  {
+    "id": "#15",
+    "name": "苏萧",
+    "label": "硫酸",
+    "?percent": 78,
+    "collect": false,
+    "tel": "13834030360",
+    "idCard": "370100196403137009",
+    "?aberrant": [
+      {
+        "label": "极端人",
+        "value": "Red"
+      },
+      {
+        "label": "在控重点人",
+        "value": "Blue"
+      },
+      {
+        "label": "涉贷",
+        "value": "Orange"
+      }
+    ],
+    "AbnormalBehavior": "异常位置极高，频繁出入敏感地"
+  },
+  {
+    "id": "#35",
+    "name": "赵飞",
+    "label": "砍刀",
+    "?percent": 78,
+    "collect": false,
+    "tel": "13505922300",
+    "idCard": "370100198506091704",
+    "?aberrant": [
+      {
+        "label": "在控重点人",
+        "value": "Blue"
+      },
+      {
+        "label": "涉贷",
+        "value": "Orange"
+      }
+    ],
+    "AbnormalBehavior": "异常位置极高，频繁出入敏感地"
+  },
+  {
+    "id": "#39",
+    "name": "徐武",
+    "label": "阿托品",
+    "?percent": 75,
+    "collect": false,
+    "tel": "14623016630",
+    "idCard": "370100198408164464",
+    "?aberrant": [
+      {
+        "label": "在控重点人",
+        "value": "Blue"
+      },
+      {
+        "label": "涉贷",
+        "value": "Orange"
+      }
+    ],
+    "AbnormalBehavior": "异常位置极高，频繁出入敏感地"
+  },
+  {
+    "id": "#19",
+    "name": "张强",
+    "label": "硫酸",
+    "?percent": 74,
+    "collect": false,
+    "tel": "12968455900",
+    "idCard": "370100196309078208",
+    "?aberrant": [
+      {
+        "label": "涉贷",
+        "value": "Orange"
+      }
+    ],
+    "AbnormalBehavior": "异常位置极高，频繁出入敏感地"
+  },
+  {
+    "id": "#7",
+    "name": "谢终辉",
+    "label": "汽油",
+    "?percent": 72,
+    "collect": false,
+    "tel": "10775235094",
+    "idCard": "370100196203051612",
+    "?aberrant": [
+      {
+        "label": "极端人",
+        "value": "Red"
+      },
+      {
+        "label": "在控重点人",
+        "value": "Blue"
+      },
+      {
+        "label": "涉贷",
+        "value": "Orange"
+      }
+    ],
+    "AbnormalBehavior": "异常位置极高，频繁出入敏感地"
+  },
+  {
+    "id": "#14",
+    "name": "陈起",
+    "label": "砍刀",
+    "?percent": 69,
+    "collect": false,
+    "tel": "12686253803",
+    "idCard": "370100197002017759",
+    "?aberrant": [
+      {
+        "label": "极端人",
+        "value": "Red"
+      },
+      {
+        "label": "在控重点人",
+        "value": "Blue"
+      }
+    ],
+    "AbnormalBehavior": "异常位置极高，频繁出入敏感地"
+  },
+  {
+    "id": "#4",
+    "name": "杨可欣",
+    "label": "爆炸",
+    "?percent": 68,
+    "collect": false,
+    "tel": "10438666030",
+    "idCard": "370100196401071957",
+    "?aberrant": [
+      {
+        "label": "极端人",
+        "value": "Red"
+      },
+      {
+        "label": "在控重点人",
+        "value": "Blue"
+      },
+      {
+        "label": "涉贷",
+        "value": "Orange"
+      }
+    ],
+    "AbnormalBehavior": "异常位置极高，频繁出入敏感地"
+  }
+
+]

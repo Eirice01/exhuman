@@ -1,0 +1,86 @@
+{
+  "centers":[116.7796039581,36.5443977954],
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "message":{
+          "startTime":"2019-08-18 08:10:15",
+          "endTime":"2019-08-18 10:20:05",
+          "address":"山东省济南市长清区凤凰路"
+        },
+        "description":"居住地：2h",
+        "icon":"居住地.png",
+        "iconSize": [40, 40]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.7720200000,
+          36.5520500000
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "message":{
+          "startTime":"2019-08-18 11:50:10",
+          "endTime":"2019-08-18 14:40:05",
+          "address":"山东省济南市长清区博爱路"
+        },
+        "description":"敏感地：3h",
+        "icon":"敏感地.png",
+        "iconSize": [40, 40]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.7822500000,
+          36.5511900000
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "message":{
+          "startTime":"2019-08-18 15:50:10",
+          "endTime":"2019-08-18 16:40:05",
+          "address":"山东省济南市长清区大学路588号"
+        },
+        "description":"工作地：1h",
+        "icon":"workPlace.png",
+        "iconSize": [40, 40]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.7788400000,
+          36.5513600000
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "message":{
+          "startTime":"2019-08-18 19:20:10",
+          "endTime":"2019-08-18 21:40:05",
+          "address":"山东省济南市长清区长崮路"
+        },
+        "description":"外出长时间停留点：2h",
+        "icon":"外出长时间停留点.png",
+        "iconSize": [40, 40]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.7752840000,
+          36.5377200000
+        ]
+      }
+    }
+  ]
+}

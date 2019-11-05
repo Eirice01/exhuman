@@ -1,0 +1,101 @@
+{
+  "centers": [
+    116.896943183235,
+    36.6844484154079
+  ],
+  "features": [
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-06 06:00:00",
+          "address": "西客西客站地块-号楼",
+          "endTime": "2019-11-06 08:30:00"
+        },
+        "icon": "敏感地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "敏感地：2.5h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.896943183235,
+          36.6844484154079
+        ]
+      }
+    },
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-06 08:41:00",
+          "address": "西客站安置一区地块号楼",
+          "endTime": "2019-11-06 18:53:00"
+        },
+        "icon": "居住地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "居住地：10.2h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.903894388099,
+          36.6831556029145
+        ]
+      }
+    },
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-06 18:56:00",
+          "address": "龙腾小区",
+          "endTime": "2019-11-06 21:06:00"
+        },
+        "icon": "停留地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "停留地：2.16h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.900430972187,
+          36.6605523674898
+        ]
+      }
+    },
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-06 21:11:00",
+          "address": "大金鑫苑-礼乐中学西北",
+          "endTime": "2019-11-06 23:41:00"
+        },
+        "icon": "敏感地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "敏感地：2.5h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.897863339587,
+          36.6855987569121
+        ]
+      }
+    }
+  ],
+  "type": "FeatureCollection"
+}

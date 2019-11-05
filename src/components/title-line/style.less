@@ -1,0 +1,21 @@
+@text-color-dark-blue: #00e4ff;
+.title-line {
+    padding: 5px;
+    color: @text-color-dark-blue;
+    background: linear-gradient(to right, rgba(24, 52, 111, 0.8) 20%, rgba(0, 0, 0, 0) 70%);
+    border-left: 16px solid rgba(0, 0, 0, 0);
+    position: relative;
+    padding-left: 10px;
+    font-size: 14px;
+    &:after {
+        content: "";
+        width: 0;
+        height: 0;
+        position: absolute;
+        top: 0px;
+        left: -16px;
+        border-width: 15px 16px 15px 0;
+        border-style: solid;
+        border-color: transparent rgba(24, 52, 111, 0.8) transparent transparent;
+    }
+}

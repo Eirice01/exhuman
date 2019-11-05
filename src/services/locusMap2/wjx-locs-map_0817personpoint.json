@@ -1,0 +1,101 @@
+{
+  "centers": [
+    116.933634,
+    36.641935
+  ],
+  "features": [
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-07 00:12:10",
+          "address": " 济南市世纪中华城",
+          "endTime": "2019-11-07 06:41:35"
+        },
+        "icon": "居住地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "居住地：7h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.933634,
+          36.641935
+        ]
+      }
+    },
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-07 07:55:10",
+          "address": "中国联通（八一旗舰店）",
+          "endTime": "2019-11-07 17:08:15"
+        },
+        "icon": "工作地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "工作地：9h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.001494,
+          36.654554
+        ]
+      }
+    },
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-07 17:20:43",
+          "address": "济南市振兴花园",
+          "endTime": "2019-11-07 18:08:05"
+        },
+        "icon": "停留地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "停留地：1h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.975704336497,
+          36.6492438938269
+        ]
+      }
+    },
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-07 18:53:08",
+          "address": "山东省劳动技术学院",
+          "endTime": "2019-11-07 23:49:01"
+        },
+        "icon": "敏感地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "敏感地：5h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.972673552874,
+          36.647652983544596
+        ]
+      }
+    }
+  ],
+  "type": "FeatureCollection"
+}

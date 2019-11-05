@@ -1,0 +1,455 @@
+{
+    "accommodation": {
+        "id": "accommodation",
+        "type": "symbol",
+        "source": "jinan-poi",
+        "source-layer": "accommodation",
+        "minzoom": 12,
+        "layout": {
+            "icon-image": "酒店",
+            "icon-size": 0.8,
+            "text-field": "{name}",
+            "text-size": [
+                "interpolate",
+                [
+                    "linear"
+                ],
+                [
+                    "zoom"
+                ],
+                9,
+                12,
+                14,
+                14
+            ],
+            "text-ignore-placement": false,
+            "text-font": [
+                "DIN Offc Pro Medium",
+                "Arial Unicode MS Regular"
+            ],
+            "text-offset": [
+                0,
+                1
+            ],
+            "text-anchor": "top"
+        },
+        "paint": {
+            "text-color": "rgba(255, 255, 255, 1)",
+            "text-halo-color": "hsl(0, 0%, 17%)",
+            "text-halo-width": 1,
+            "text-halo-blur": 0.5
+        }
+    },
+    "bus-station": {
+        "id": "bus-station",
+        "type": "symbol",
+        "source": "jinan-poi",
+        "source-layer": "bus-station",
+        "minzoom": 12,
+        "maxzoom": 24,
+        "layout": {
+            "icon-image": "汽车站",
+            "icon-size": 0.8,
+            "text-field": "{name}",
+            "text-size": [
+                "interpolate",
+                [
+                    "linear"
+                ],
+                [
+                    "zoom"
+                ],
+                9,
+                12,
+                14,
+                14
+            ],
+            "text-font": [
+                "DIN Offc Pro Medium",
+                "Arial Unicode MS Regular"
+            ],
+            "text-offset": [
+                0,
+                1
+            ],
+            "text-anchor": "top"
+        },
+        "paint": {
+            "text-color": "rgba(255, 255, 255, 1)",
+            "text-halo-color": "hsl(0, 0%, 17%)",
+            "text-halo-width": 1,
+            "text-halo-blur": 0.5,
+            "icon-halo-width": 1,
+            "icon-halo-blur": 0.5
+        }
+    },
+    "finance": {
+        "id": "finance",
+        "type": "symbol",
+        "source": "jinan-poi",
+        "source-layer": "finance",
+        "minzoom": 12,
+        "layout": {
+            "icon-image": "银行金融",
+            "icon-size": 0.8,
+            "text-field": "{name}",
+            "text-size": [
+                "interpolate",
+                [
+                    "linear"
+                ],
+                [
+                    "zoom"
+                ],
+                9,
+                12,
+                14,
+                14
+            ],
+            "text-ignore-placement": false,
+            "text-font": [
+                "DIN Offc Pro Medium",
+                "Arial Unicode MS Regular"
+            ],
+            "text-offset": [
+                0,
+                1
+            ],
+            "text-anchor": "top"
+        },
+        "paint": {
+            "text-color": "rgba(255, 255, 255, 1)",
+            "text-halo-color": "hsl(0, 0%, 17%)",
+            "text-halo-width": 1,
+            "text-halo-blur": 0.5
+        }
+    },
+    "government": {
+        "id": "government",
+        "type": "symbol",
+        "source": "jinan-poi",
+        "source-layer": "government",
+        "minzoom": 12,
+        "layout": {
+            "icon-image": "政府",
+            "icon-size": 0.8,
+            "text-field": "{name}",
+            "text-size": [
+                "interpolate",
+                [
+                    "linear"
+                ],
+                [
+                    "zoom"
+                ],
+                9,
+                12,
+                14,
+                14
+            ],
+            "text-ignore-placement": false,
+            "text-font": [
+                "DIN Offc Pro Medium",
+                "Arial Unicode MS Regular"
+            ],
+            "text-offset": [
+                0,
+                1
+            ],
+            "text-anchor": "top"
+        },
+        "paint": {
+            "text-color": "rgba(255, 255, 255, 1)",
+            "text-halo-color": "hsl(0, 0%, 17%)",
+            "text-halo-width": 1,
+            "text-halo-blur": 0.5
+        }
+    },
+    "hospital": {
+        "id": "hospital",
+        "type": "symbol",
+        "source": "jinan-poi",
+        "source-layer": "hospital",
+        "minzoom": 12,
+        "layout": {
+            "icon-image": "医院",
+            "icon-size": 0.8,
+            "text-field": "{name}",
+            "text-size": [
+                "interpolate",
+                [
+                    "linear"
+                ],
+                [
+                    "zoom"
+                ],
+                9,
+                12,
+                14,
+                14
+            ],
+            "text-ignore-placement": false,
+            "text-font": [
+                "DIN Offc Pro Medium",
+                "Arial Unicode MS Regular"
+            ],
+            "text-offset": [
+                0,
+                1
+            ],
+            "text-anchor": "top"
+        },
+        "paint": {
+            "text-color": "rgba(255, 255, 255, 1)",
+            "text-halo-color": "hsl(0, 0%, 17%)",
+            "text-halo-width": 1,
+            "text-halo-blur": 0.5
+        }
+    },
+    "house": {
+        "id": "house",
+        "type": "symbol",
+        "source": "jinan-poi",
+        "source-layer": "house",
+        "minzoom": 12,
+        "layout": {
+            "icon-image": "济南房产小区",
+            "icon-size": 0.8,
+            "text-field": "{name}",
+            "text-size": [
+                "interpolate",
+                [
+                    "linear"
+                ],
+                [
+                    "zoom"
+                ],
+                9,
+                12,
+                14,
+                14
+            ],
+            "text-ignore-placement": false,
+            "text-font": [
+                "DIN Offc Pro Medium",
+                "Arial Unicode MS Regular"
+            ],
+            "text-offset": [
+                0,
+                1
+            ],
+            "text-anchor": "top"
+        },
+        "paint": {
+            "text-color": "rgba(255, 255, 255, 1)",
+            "text-halo-color": "hsl(0, 0%, 17%)",
+            "text-halo-width": 1,
+            "text-halo-blur": 0.5
+        }
+    },
+    "life-service": {
+        "id": "life-service",
+        "type": "symbol",
+        "source": "jinan-poi",
+        "source-layer": "life-service",
+        "minzoom": 12,
+        "layout": {
+            "icon-image": "生活服务",
+            "icon-size": 0.8,
+            "text-field": "{name}",
+            "text-size": [
+                "interpolate",
+                [
+                    "linear"
+                ],
+                [
+                    "zoom"
+                ],
+                9,
+                12,
+                14,
+                14
+            ],
+            "text-ignore-placement": false,
+            "text-font": [
+                "DIN Offc Pro Medium",
+                "Arial Unicode MS Regular"
+            ],
+            "text-offset": [
+                0,
+                1
+            ],
+            "text-anchor": "top"
+        },
+        "paint": {
+            "text-color": "rgba(255, 255, 255, 1)",
+            "text-halo-color": "hsl(0, 0%, 17%)",
+            "text-halo-width": 1,
+            "text-halo-blur": 0.5
+        }
+    },
+    "oil-station": {
+        "id": "oil-station",
+        "type": "symbol",
+        "source": "jinan-poi",
+        "source-layer": "oil-station",
+        "minzoom": 12,
+        "layout": {
+            "icon-image": "加油站",
+            "icon-size": 0.8,
+            "text-field": "{name}",
+            "text-size": [
+                "interpolate",
+                [
+                    "linear"
+                ],
+                [
+                    "zoom"
+                ],
+                9,
+                12,
+                14,
+                14
+            ],
+            "text-ignore-placement": false,
+            "text-font": [
+                "DIN Offc Pro Medium",
+                "Arial Unicode MS Regular"
+            ],
+            "text-offset": [
+                0,
+                1
+            ],
+            "text-anchor": "top"
+        },
+        "paint": {
+            "text-color": "rgba(255, 255, 255, 1)",
+            "text-halo-color": "hsl(0, 0%, 17%)",
+            "text-halo-width": 1,
+            "text-halo-blur": 0.5
+        }
+    },
+    "railway-station": {
+        "id": "railway-station",
+        "type": "symbol",
+        "source": "jinan-poi",
+        "source-layer": "railway-station",
+        "minzoom": 12,
+        "layout": {
+            "icon-image": "火车站",
+            "icon-size": 0.8,
+            "text-field": "{name}",
+            "text-size": [
+                "interpolate",
+                [
+                    "linear"
+                ],
+                [
+                    "zoom"
+                ],
+                9,
+                12,
+                14,
+                14
+            ],
+            "text-ignore-placement": false,
+            "text-font": [
+                "DIN Offc Pro Medium",
+                "Arial Unicode MS Regular"
+            ],
+            "text-offset": [
+                0,
+                1
+            ],
+            "text-anchor": "top"
+        },
+        "paint": {
+            "text-color": "rgba(255, 255, 255, 1)",
+            "text-halo-color": "hsl(0, 0%, 17%)",
+            "text-halo-width": 1,
+            "text-halo-blur": 0.5
+        }
+    },
+    "school": {
+        "id": "school",
+        "type": "symbol",
+        "source": "jinan-poi",
+        "source-layer": "school",
+        "minzoom": 12,
+        "layout": {
+            "icon-image": "教育学校",
+            "icon-size": 0.8,
+            "text-field": "{name}",
+            "text-size": [
+                "interpolate",
+                [
+                    "linear"
+                ],
+                [
+                    "zoom"
+                ],
+                9,
+                12,
+                14,
+                14
+            ],
+            "text-ignore-placement": false,
+            "text-font": [
+                "DIN Offc Pro Medium",
+                "Arial Unicode MS Regular"
+            ],
+            "text-offset": [
+                0,
+                1
+            ],
+            "text-anchor": "top"
+        },
+        "paint": {
+            "text-color": "rgba(255, 255, 255, 1)",
+            "text-halo-color": "hsl(0, 0%, 17%)",
+            "text-halo-width": 1,
+            "text-halo-blur": 0.5
+        }
+    },
+    "travel": {
+        "id": "travel",
+        "type": "symbol",
+        "source": "jinan-poi",
+        "source-layer": "travel",
+        "minzoom": 12,
+        "layout": {
+            "icon-image": "景区",
+            "icon-size": 0.8,
+            "text-field": "{name}",
+            "text-size": [
+                "interpolate",
+                [
+                    "linear"
+                ],
+                [
+                    "zoom"
+                ],
+                9,
+                12,
+                14,
+                14
+            ],
+            "text-ignore-placement": false,
+            "text-font": [
+                "DIN Offc Pro Medium",
+                "Arial Unicode MS Regular"
+            ],
+            "text-offset": [
+                0,
+                1
+            ],
+            "text-anchor": "top"
+        },
+        "paint": {
+            "text-color": "rgba(255, 255, 255, 1)",
+            "text-halo-color": "hsl(0, 0%, 17%)",
+            "text-halo-width": 1,
+            "text-halo-blur": 0.5
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+  "tags": [
+    {
+      "title": "大额欠贷",
+      "color": "#088ce2",
+      "borColor": "#2f75d2",
+      "bg": "#0e233e"
+    },
+    {
+      "title": "敏感内容",
+      "color": "#088ce2",
+      "borColor": "#2f75d2",
+      "bg": "#0e233e"
+    }
+  ],
+  "discusCunt": "23%",
+  "locusDisper": "",
+  "tel": "13026589863",
+  "cation": [
+    "通联行为异常、通联封闭、无效通话较多"
+  ],
+  "locusAddress": [
+    "进出学校：于2019年11月10日进出圣翰财经学院"
+  ],
+  "message": [
+    "发送了“钱”并传播给15人"
+  ],
+  "discus": [
+    ""
+  ],
+  "abover": "51%",
+  "address": "济南市长清区104国道",
+  "search": [
+    "安检",
+    "贷款"
+  ],
+  "name": "梁兴力",
+  "radius": "65%",
+  "specialAddress": [
+    "近期出入学校"
+  ],
+  "warning": 0,
+  "sensitiveWords": [
+    "贷款",
+    "安检",
+    "学校"
+  ]
+}

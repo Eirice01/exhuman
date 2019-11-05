@@ -1,0 +1,86 @@
+{
+  "centers":[117.120284,36.656972],
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "message":{
+          "startTime":"2019-08-18 08:10:15",
+          "endTime":"2019-08-18 10:20:05",
+          "address":"济南市历下区转山西路10号"
+        },
+        "description":"居住地：2h",
+        "icon":"居住地.png",
+        "iconSize": [40, 40]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.100044,
+          36.652307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "message":{
+          "startTime":"2019-08-18 11:50:10",
+          "endTime":"2019-08-18 14:40:05",
+          "address":"荷兰庄园"
+        },
+        "description":"敏感地：3h",
+        "icon":"敏感地.png",
+        "iconSize": [40, 40]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.104405,
+          36.651291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "message":{
+          "startTime":"2019-08-18 15:50:10",
+          "endTime":"2019-08-18 16:40:05",
+          "address":"银座颐庭大酒店"
+        },
+        "description":"工作地：1h",
+        "icon":"workPlace.png",
+        "iconSize": [40, 40]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.117945,
+          36.662678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "message":{
+          "startTime":"2019-08-18 19:20:10",
+          "endTime":"2019-08-18 21:40:05",
+          "address":"东山墅"
+        },
+        "description":"外出长时间停留点：2h",
+        "icon":"外出长时间停留点.png",
+        "iconSize": [40, 40]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.103976,
+          36.643888
+        ]
+      }
+    }
+  ]
+}

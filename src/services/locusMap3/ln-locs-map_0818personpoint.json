@@ -1,0 +1,101 @@
+{
+  "centers": [
+    116.896861940309,
+    36.6728912457521
+  ],
+  "features": [
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-08 00:30:00",
+          "address": "段店小饮马含恒大雅苑三期地下车库及电梯",
+          "endTime": "2019-11-08 01:55:00"
+        },
+        "icon": "停留地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "停留地：1.41h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.896861940309,
+          36.6728912457521
+        ]
+      }
+    },
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-08 02:50:00",
+          "address": "西客站安置一区地块号楼",
+          "endTime": "2019-11-08 14:45:00"
+        },
+        "icon": "居住地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "居住地：11.9h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.903894388099,
+          36.6831556029145
+        ]
+      }
+    },
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-08 15:08:00",
+          "address": "大金鑫苑-礼乐中学西北",
+          "endTime": "2019-11-08 19:43:00"
+        },
+        "icon": "敏感地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "敏感地：4.58h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.899363860125,
+          36.6890703964166
+        ]
+      }
+    },
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-08 19:57:00",
+          "address": "西客站地块-号楼",
+          "endTime": "2019-11-08 22:02:00"
+        },
+        "icon": "敏感地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "敏感地：2.08h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.897863339587,
+          36.6855987569121
+        ]
+      }
+    }
+  ],
+  "type": "FeatureCollection"
+}

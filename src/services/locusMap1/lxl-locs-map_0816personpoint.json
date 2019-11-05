@@ -1,0 +1,124 @@
+{
+  "centers": [
+    116.854528483397,
+    36.5642177098676
+  ],
+  "features": [
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-06 21:13:11",
+          "address": "开山村",
+          "endTime": "2019-11-06 24:00:00"
+        },
+        "icon": "居住地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "居住地：3h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.854528483397,
+          36.5642177098676
+        ]
+      }
+    },
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-06 14:26:59",
+          "address": "章丘吉家",
+          "endTime": "2019-11-06 16:26:13"
+        },
+        "icon": "工作地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "工作地：2h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.47375525645401,
+          36.915594279091195
+        ]
+      }
+    },
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-06 16:30:25",
+          "address": "刁镇王三",
+          "endTime": "2019-11-06 17:36:02"
+        },
+        "icon": "停留地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "停留地：1h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.510588627101,
+          36.9038196715893
+        ]
+      }
+    },
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-06 09:56:16",
+          "address": "刁镇时家",
+          "endTime": "2019-11-06 12:01:33"
+        },
+        "icon": "停留地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "停留地：2h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.516136335026,
+          36.8872712056236
+        ]
+      }
+    },
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-06 18:40:45",
+          "address": "章丘文东社区东",
+          "endTime": "2019-11-06 20:25:51"
+        },
+        "icon": "停留地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "停留地：2h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.51881602951,
+          36.8824998646704
+        ]
+      }
+    }
+  ],
+  "type": "FeatureCollection"
+}

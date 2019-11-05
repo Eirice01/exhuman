@@ -1,0 +1,32 @@
+{
+  "centers": [
+    117.014393225033,
+    36.7041012193513
+  ],
+  "features": [
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-06 8:50:15",
+          "address": "济南市黄台家居市场",
+          "endTime": "2019-11-08 18:35:05"
+        },
+        "icon": "工作地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "工作地：9h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.014393225033,
+          36.7041012193513
+        ]
+      }
+    }
+  ],
+  "type": "FeatureCollection"
+}

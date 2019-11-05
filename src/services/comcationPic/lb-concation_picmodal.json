@@ -1,0 +1,28 @@
+{
+  "peer": {
+    "unusualNumber": "15",
+    "consult": "13",
+    "info": "通联对端异常值/参考值"
+  },
+  "times": {
+    "unusualNumber": "57",
+    "consult": "50",
+    "info": "通联时长异常值/参考值"
+  },
+  "contentcall": {
+    "titme2": "23:00-24:00",
+    "titme1": "19:00-10:00",
+    "consult": "19:00-10:00",
+    "info": "集中通话时间段/参考值"
+  },
+  "invalidcall": {
+    "unusualNumber": "19",
+    "consult": "15",
+    "info": "无效通话次数异常值/参考值"
+  },
+  "cunt": {
+    "unusualNumber": "34",
+    "consult": "20",
+    "info": "通联次数异常值/参考值"
+  }
+}

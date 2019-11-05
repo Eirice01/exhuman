@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "address": "开山村",
+    "type": "居住地",
+    "cuntPic": "3"
+  },
+  {
+    "id": "2",
+    "address": "章丘吉家",
+    "type": "工作地",
+    "cuntPic": "1"
+  },
+  {
+    "id": "3",
+    "address": "刁镇王三",
+    "type": "停留地",
+    "cuntPic": "1"
+  },
+  {
+    "id": "4",
+    "address": "刁镇时家",
+    "type": "停留地",
+    "cuntPic": "1"
+  },
+  {
+    "id": "5",
+    "address": "章丘文东社区东",
+    "type": "停留地",
+    "cuntPic": "1"
+  }
+]

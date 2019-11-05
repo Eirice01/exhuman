@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "address": "飞机场",
+    "type": "敏感地",
+    "cuntPic": "2"
+  },
+  {
+    "id": "2",
+    "address": "高官寨官庄",
+    "type": "停留地",
+    "cuntPic": "1"
+  },
+  {
+    "id": "3",
+    "address": "遥墙机场收费站",
+    "type": "敏感地",
+    "cuntPic": "2"
+  },
+  {
+    "id": "4",
+    "address": "姚家村",
+    "type": "居住地",
+    "cuntPic": "1"
+  },
+  {
+    "id": "5",
+    "address": "凤山路南头",
+    "type": "停留地",
+    "cuntPic": "1"
+  }
+]

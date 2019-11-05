@@ -1,0 +1,198 @@
+[
+  {
+    "id": "#王军",
+    "name": "王军",
+    "label": "活腻了",
+    "?percent": 89,
+    "collect": false,
+    "tel": "10927405798",
+    "idCard": "370100198507028759",
+    "?aberrant": [
+      {
+        "label": "在控重点人",
+        "value": "Blue"
+      }
+    ],
+    "AbnormalBehavior": "异常位置极高，频繁出入敏感地"
+  },
+  {
+    "id": "#6",
+    "name": "李月",
+    "label": "致幻剂",
+    "?percent": 71,
+    "collect": false,
+    "tel": "11372913068",
+    "idCard": "370100197602249196",
+    "?aberrant": [
+      {
+        "label": "极端人",
+        "value": "Red"
+      },
+      {
+        "label": "在控重点人",
+        "value": "Blue"
+      },
+      {
+        "label": "涉贷",
+        "value": "Orange"
+      }
+    ],
+    "AbnormalBehavior": "异常位置极高，频繁出入敏感地"
+  },
+  {
+    "id": "#1",
+    "name": "刘强",
+    "label": "硫酸",
+    "?percent": 70,
+    "collect": false,
+    "tel": "10591360785",
+    "idCard": "370100198402254503",
+    "?aberrant": [
+      {
+        "label": "极端人",
+        "value": "Red"
+      }
+    ],
+    "AbnormalBehavior": "异常位置极高，频繁出入敏感地"
+  },
+  {
+    "id": "#7",
+    "name": "杨可欣",
+    "label": "爆炸",
+    "?percent": 59,
+    "collect": false,
+    "tel": "18561868015",
+    "idCard": "370100197508124856",
+    "?aberrant": [
+      {
+        "label": "在控重点人",
+        "value": "Blue"
+      },
+      {
+        "label": "涉贷",
+        "value": "Orange"
+      }
+    ],
+    "AbnormalBehavior": "异常位置极高，频繁出入敏感地"
+  },
+  {
+    "id": "#8",
+    "name": "赵飞",
+    "label": "硫酸",
+    "?percent": 58,
+    "collect": false,
+    "tel": "14005358801",
+    "idCard": "370100197611161730",
+    "?aberrant": [
+      {
+        "label": "在控重点人",
+        "value": "Blue"
+      },
+      {
+        "label": "涉贷",
+        "value": "Orange"
+      }
+    ],
+    "AbnormalBehavior": "异常位置极高，频繁出入敏感地"
+  },
+  {
+    "id": "#3",
+    "name": "张强",
+    "label": "毒鼠强",
+    "?percent": 46,
+    "collect": false,
+    "tel": "16924352039",
+    "idCard": "370100197803277126",
+    "?aberrant": [
+      {
+        "label": "极端人",
+        "value": "Red"
+      },
+      {
+        "label": "在控重点人",
+        "value": "Blue"
+      },
+      {
+        "label": "涉贷",
+        "value": "Orange"
+      }
+    ],
+    "AbnormalBehavior": "异常位置极高，频繁出入敏感地"
+  },
+  {
+    "id": "#4",
+    "name": "李欢",
+    "label": "汽油",
+    "?percent": 40,
+    "collect": false,
+    "tel": "17214532027",
+    "idCard": "370100198008190366",
+    "?aberrant": [
+      {
+        "label": "极端人",
+        "value": "Red"
+      }
+    ],
+    "AbnormalBehavior": "异常位置极高，频繁出入敏感地"
+  },
+  {
+    "id": "#0",
+    "name": "张建林",
+    "label": "躲避安检",
+    "?percent": 39,
+    "collect": false,
+    "tel": "13677000751",
+    "idCard": "370100196708144658",
+    "?aberrant": [
+      {
+        "label": "极端人",
+        "value": "Red"
+      },
+      {
+        "label": "在控重点人",
+        "value": "Blue"
+      }
+    ],
+    "AbnormalBehavior": "异常位置极高，频繁出入敏感地"
+  },
+  {
+    "id": "#2",
+    "name": "王永",
+    "label": "硫酸",
+    "?percent": 39,
+    "collect": false,
+    "tel": "11739271254",
+    "idCard": "370100196611149512",
+    "?aberrant": [
+      {
+        "label": "极端人",
+        "value": "Red"
+      }
+    ],
+    "AbnormalBehavior": "异常位置极高，频繁出入敏感地"
+  },
+  {
+    "id": "#5",
+    "name": "徐武",
+    "label": "活腻了",
+    "?percent": 28,
+    "collect": false,
+    "tel": "10650389364",
+    "idCard": "370100196605249239",
+    "?aberrant": [
+      {
+        "label": "极端人",
+        "value": "Red"
+      },
+      {
+        "label": "在控重点人",
+        "value": "Blue"
+      },
+      {
+        "label": "涉贷",
+        "value": "Orange"
+      }
+    ],
+    "AbnormalBehavior": "异常位置极高，频繁出入敏感地"
+  }
+]

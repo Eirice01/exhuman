@@ -1,0 +1,37 @@
+[
+  {
+    "id" : "1",
+    "type": "呼出",
+    "img":"exhale.png",
+    "CalledNum" : "15006400003",
+    "cationTime": "12"
+  },
+  {
+    "id" : "2",
+    "type": "呼入",
+    "img":"incoming.png",
+    "CalledNum" : "15006400130",
+    "cationTime": "34"
+  },
+  {
+    "id" : "3",
+    "type": "呼出",
+    "img":"exhale.png",
+    "CalledNum" : "13156110021",
+    "cationTime": "15"
+  },
+  {
+    "id" : "5",
+    "type": "接收",
+    "img":"receive.png",
+    "CalledNum" : "13156110103@sina.com",
+    "cationTime": ""
+  },
+  {
+    "id" : "6",
+    "type": "发出",
+    "img":"sending.png",
+    "CalledNum" : "13156110230@163.com",
+    "cationTime": ""
+  }
+]

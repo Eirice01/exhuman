@@ -1,0 +1,28 @@
+[{
+    "tags": [
+      "涉嫌犯罪"
+    ],
+    "idCard": "370105198805284319",
+    "localtion": "济南市天桥区金桥新苑",
+    "percent": 75,
+    "AbnormalBehavior": [
+      "异常短信内容",
+      "异常评论内容"
+    ],
+    "coordinate": [
+      117.032078,36.778712
+    ],
+    "tel": "15610180458",
+    "id": "09",
+    "pId": "37010511",
+    "tools": "枪支",
+    "name": "李波",
+    "fuullName": "lb",
+    "nearplace": [
+      "济南市天桥区林山设备厂"
+    ],
+    "warning": 1,
+    "sensitiveWords": [
+      "枪支"
+    ]
+  }]

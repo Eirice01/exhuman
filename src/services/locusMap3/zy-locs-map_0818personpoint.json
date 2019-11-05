@@ -1,0 +1,124 @@
+{
+  "centers": [
+    116.96229175830901,
+    36.6533370495341
+  ],
+  "features": [
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-08 07:19:38",
+          "address": "联通槐荫区福牌阿胶",
+          "endTime": "2019-11-08 10:31:49"
+        },
+        "icon": "工作地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "工作地：3h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.96229175830901,
+          36.6533370495341
+        ]
+      }
+    },
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-08 11:20:55",
+          "address": "公安厅交通警察总队",
+          "endTime": "2019-11-08 12:21:39"
+        },
+        "icon": "敏感地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "敏感地：1h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.977023104506,
+          36.6824678118198
+        ]
+      }
+    },
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-08 13:31:19",
+          "address": "军秀花园",
+          "endTime": "2019-11-08 14:44:43"
+        },
+        "icon": "停留地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "停留地：1h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.979059722165,
+          36.6786789734513
+        ]
+      }
+    },
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-08 15:37:25",
+          "address": "天成集团",
+          "endTime": "2019-11-08 17:41:17"
+        },
+        "icon": "停留地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "停留地：2h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.96949462008,
+          36.6837290272939
+        ]
+      }
+    },
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-08 19:11:09",
+          "address": "交通学院五号公寓楼",
+          "endTime": "2019-11-08 21:22:48"
+        },
+        "icon": "停留地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "停留地：2h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.95930257523001,
+          36.6793913612822
+        ]
+      }
+    }
+  ],
+  "type": "FeatureCollection"
+}

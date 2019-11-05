@@ -1,0 +1,101 @@
+{
+  "centers":[117.05548,36.661054],
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "message":{
+          "startTime":"2019-11-08 08:20:15",
+          "endTime":"2019-11-08 10:10:05",
+          "address":"济南市窑头路东段3号"
+        },
+        "description":"居住地：2h",
+        "icon":"居住地.png",
+        "iconSize": [40, 40]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.084377,36.655054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "message":{
+          "startTime":"2019-11-08 11:45:10",
+          "endTime":"2019-11-08 14:55:05",
+          "address":"山东省济南市历下区洪山路1000号银座花园购物广场"
+        },
+        "description":"敏感地：3h",
+        "icon":"敏感地.png",
+        "iconSize": [40, 40]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.075029,36.655751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "message":{
+          "startTime":"2019-11-08 15:45:10",
+          "endTime":"2019-11-08 16:55:05",
+          "address":"济南市历下区山大路201号"
+        },
+        "description":"工作地：1h",
+        "icon":"workPlace.png",
+        "iconSize": [40, 40]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.05548,36.657221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "message":{
+          "startTime":"2019-08-17 21:40:10",
+          "endTime":"2019-08-17 22:50:05",
+          "address":"山东省济南市历下区经十路17703号"
+        },
+        "description":"消失：1h",
+        "icon":"消失.png",
+        "iconSize": [40, 40]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.095272,36.662763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "message":{
+          "startTime":"2019-11-08 19:30:10",
+          "endTime":"2019-11-08 21:50:05",
+          "address":"山东省济南市历下区泉城路77号"
+        },
+        "description":"停留地：2h",
+        "icon":"停留地.png",
+        "iconSize": [40, 40]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.086527,36.664185
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "centers": [
+    117.536740691993,
+    36.7672217522261
+  ],
+  "features": [
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-07 8:46:20",
+          "address": "济南市章丘区平普路七郎院村",
+          "endTime": "2019-11-07 13:20:01"
+        },
+        "icon": "工作地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "工作地：4h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.536740691993,
+          36.7672217522261
+        ]
+      }
+    },
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-07 15:10:10",
+          "address": "中国光大银行（济南章丘支行）",
+          "endTime": "2019-11-07 16:25:09"
+        },
+        "icon": "停留地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "停留地：1h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.545521,
+          36.698642
+        ]
+      }
+    }
+  ],
+  "type": "FeatureCollection"
+}

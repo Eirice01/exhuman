@@ -1,0 +1,16 @@
+[
+  {
+    "title": "活动面积",
+    "dw": "km²",
+    "unusualCunt": "12",
+    "ckCunt": "24",
+    "type": "mj"
+  },
+  {
+    "title": "活动网格数",
+    "dw": "个",
+    "unusualCunt": "1200",
+    "ckCunt": "2400",
+    "type": "wg"
+  }
+]

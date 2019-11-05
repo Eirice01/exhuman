@@ -1,0 +1,106 @@
+{
+  "centers":[117.12022,36.648485],
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "message":{
+          "startTime":"2019-08-17 06:34:15",
+          "endTime":"2019-08-17 09:20:05",
+          "address":"济南市历下区转山西路10号"
+        },
+        "description":"居住地：3h",
+        "icon":"居住地.png",
+        "iconSize": [40, 40]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.100044,
+          36.652307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "message":{
+          "startTime":"2019-08-17 10:20:10",
+          "endTime":"2019-08-17 12:20:05",
+          "address":"大地全运村幼儿园"
+        },
+        "description":"敏感地：2h",
+        "icon":"敏感地.png",
+        "iconSize": [40, 40]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.125906,
+          36.641719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "message":{
+          "startTime":"2019-08-17 13:30:10",
+          "endTime":"2019-08-17 20:40:05",
+          "address":"银座颐庭大酒店"
+        },
+        "description":"工作地：8h",
+        "icon":"workPlace.png",
+        "iconSize": [40, 40]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.117945,
+          36.662678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "message":{
+          "startTime":"2019-08-17 21:40:10",
+          "endTime":"2019-08-17 22:40:05",
+          "address":"济南市政府大楼（北侧）"
+        },
+        "description":"消失：1h",
+        "icon":"消失.png",
+        "iconSize": [40, 40]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.120069,
+          36.65315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "message":{
+          "startTime":"2019-08-17 23:10:10",
+          "endTime":"2019-08-17 23:55:05",
+          "address":"山东省烟草专卖局"
+        },
+        "description":"外出长时间停留点：1h",
+        "icon":"外出长时间停留点.png",
+        "iconSize": [40, 40]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.134489,
+          36.654941
+        ]
+      }
+    }
+  ]
+}

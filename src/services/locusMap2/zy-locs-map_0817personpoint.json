@@ -1,0 +1,124 @@
+{
+  "centers": [
+    116.96229175830901,
+    36.6533370495341
+  ],
+  "features": [
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-07 07:51:38",
+          "address": "联通槐荫区福牌阿胶",
+          "endTime": "2019-11-07 11:05:31"
+        },
+        "icon": "工作地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "工作地：3h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.96229175830901,
+          36.6533370495341
+        ]
+      }
+    },
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-07 12:10:51",
+          "address": "联通槐荫人民医院",
+          "endTime": "2019-11-07 14:05:43"
+        },
+        "icon": "敏感地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "敏感地：2h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.97395052404701,
+          36.6578644744139
+        ]
+      }
+    },
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-07 15:34:48",
+          "address": "百事春秋",
+          "endTime": "2019-11-07 17:29:31"
+        },
+        "icon": "停留地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "停留地：2h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.959526088908,
+          36.6496946535411
+        ]
+      }
+    },
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-07 18:09:49",
+          "address": "妙派",
+          "endTime": "2019-11-07 19:15:21"
+        },
+        "icon": "停留地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "停留地：1h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.9896471424,
+          36.6794434537534
+        ]
+      }
+    },
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-07 20:34:52",
+          "address": "十一中",
+          "endTime": "2019-11-07 21:20:15"
+        },
+        "icon": "敏感地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "敏感地：1h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.97979838365701,
+          36.6761304145804
+        ]
+      }
+    }
+  ],
+  "type": "FeatureCollection"
+}

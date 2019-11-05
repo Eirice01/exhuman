@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "address": "新孟家",
+    "type": "停留地",
+    "cuntPic": "1"
+  },
+  {
+    "id": "2",
+    "address": "市府东楼",
+    "type": "停留地",
+    "cuntPic": "1"
+  },
+  {
+    "id": "3",
+    "address": "锦屏家园老石沟",
+    "type": "停留地",
+    "cuntPic": "1"
+  },
+  {
+    "id": "4",
+    "address": "奥龙官邸号楼",
+    "type": "居住地",
+    "cuntPic": "1"
+  },
+  {
+    "id": "5",
+    "address": "市府西楼",
+    "type": "停留地",
+    "cuntPic": "1"
+  },
+  {
+    "id": "6",
+    "address": "警察博物馆",
+    "type": "停留地",
+    "cuntPic": "1"
+  },
+  {
+    "id": "7",
+    "address": "济南市公安局东楼",
+    "type": "停留地",
+    "cuntPic": "1"
+  }
+]

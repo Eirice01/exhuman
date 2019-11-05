@@ -1,0 +1,101 @@
+{
+  "centers": [
+    117.268632870493,
+    37.0035360852111
+  ],
+  "features": [
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-06 08:23:02",
+          "address": "黄河乡东南李村",
+          "endTime": "2019-11-06 09:33:02"
+        },
+        "icon": "停留地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "停留地：1.16h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.268632870493,
+          37.0035360852111
+        ]
+      }
+    },
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-06 09:43:02",
+          "address": "消防基地",
+          "endTime": "2019-11-06 12:08:02"
+        },
+        "icon": "敏感地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "敏感地：2.41h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.183447852953,
+          36.6678798712924
+        ]
+      }
+    },
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-06 12:09:02",
+          "address": "小许家立交",
+          "endTime": "2019-11-06 12:44:02"
+        },
+        "icon": "停留地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "停留地：0.58h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.210315945379,
+          36.7770648327526
+        ]
+      }
+    },
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-06 13:39:02",
+          "address": "姚家村",
+          "endTime": "2019-11-06 23:05:02"
+        },
+        "icon": "居住地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "居住地：9.4h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.188806026432,
+          36.8757644210445
+        ]
+      }
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,9 @@
+lib/
+node_modules/
+.idea/
+.nyc_output/
+coverage/
+npm-debug.log
+.DS_Store
+extreme-human
+.vscode/

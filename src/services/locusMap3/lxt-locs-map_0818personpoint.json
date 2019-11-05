@@ -1,0 +1,86 @@
+{
+  "centers":[116.9973058009,36.6450578793],
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "message":{
+          "startTime":"2019-08-18 08:10:15",
+          "endTime":"2019-08-18 10:20:05",
+          "address":"山东省济南市市中区胜利大街53号"
+        },
+        "description":"居住地：2h",
+        "icon":"居住地.png",
+        "iconSize": [40, 40]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.9993489151,
+          36.6463057481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "message":{
+          "startTime":"2019-08-18 11:50:10",
+          "endTime":"2019-08-18 14:40:05",
+          "address":"山东省济南市市中区经十路128号"
+        },
+        "description":"敏感地：3h",
+        "icon":"敏感地.png",
+        "iconSize": [40, 40]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.9980139041,
+          36.6466934273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "message":{
+          "startTime":"2019-08-18 15:50:10",
+          "endTime":"2019-08-18 16:40:05",
+          "address":"山东省济南市市中区马鞍山路"
+        },
+        "description":"工作地：1h",
+        "icon":"workPlace.png",
+        "iconSize": [40, 40]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.9962543750,
+          36.6473304208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "message":{
+          "startTime":"2019-08-18 19:20:10",
+          "endTime":"2019-08-18 21:40:05",
+          "address":"山东省济南市市中区经十一路38号"
+        },
+        "description":"外出长时间停留点：2h",
+        "icon":"外出长时间停留点.png",
+        "iconSize": [40, 40]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.9945377612,
+          36.6457465353
+        ]
+      }
+    }
+  ]
+}

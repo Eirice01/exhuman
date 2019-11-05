@@ -1,0 +1,124 @@
+{
+  "centers": [
+    117.188806026432,
+    36.8757644210445
+  ],
+  "features": [
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-07 00:30:00",
+          "address": "姚家村",
+          "endTime": "2019-11-07 11:38:00"
+        },
+        "icon": "居住地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "居住地：11.1h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.188806026432,
+          36.8757644210445
+        ]
+      }
+    },
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-07 12:23:00",
+          "address": "凤山路南头",
+          "endTime": "2019-11-07 13:48:00"
+        },
+        "icon": "停留地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "停留地：1.41h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.160149311316,
+          36.6661618610436
+        ]
+      }
+    },
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-07 14:08:00",
+          "address": "飞机场",
+          "endTime": "2019-11-07 17:36:00"
+        },
+        "icon": "敏感地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "敏感地：3.46h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.211224320555,
+          36.8610322718533
+        ]
+      }
+    },
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-07 17:50:00",
+          "address": "高官寨官庄",
+          "endTime": "2019-11-07 19:15:00"
+        },
+        "icon": "停留地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "停留地：1.41h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.26582616956,
+          36.933831878711
+        ]
+      }
+    },
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-07 19:26:00",
+          "address": "遥墙机场收费站",
+          "endTime": "2019-11-07 21:26:00"
+        },
+        "icon": "敏感地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "敏感地：2h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.204931236155,
+          36.8425287796645
+        ]
+      }
+    }
+  ],
+  "type": "FeatureCollection"
+}

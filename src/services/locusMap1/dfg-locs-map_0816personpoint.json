@@ -1,0 +1,55 @@
+{
+  "centers": [
+    117.536740691993,
+    36.7672217522261
+  ],
+  "features": [
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-06 9:20:15",
+          "address": "济南市章丘区平普路七郎院村",
+          "endTime": "2019-11-06 12:40:05"
+        },
+        "icon": "工作地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "工作地：3h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.536740691993,
+          36.7672217522261
+        ]
+      }
+    },
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-06 14:10:10",
+          "address": "南市章丘区中信银行（章丘支行）",
+          "endTime": "2019-11-06 15:45:25"
+        },
+        "icon": "停留地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "停留地：1h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.543862,
+          36.715809
+        ]
+      }
+    }
+  ],
+  "type": "FeatureCollection"
+}

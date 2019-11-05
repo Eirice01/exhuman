@@ -1,0 +1,105 @@
+{ "centers":[117.120284,36.656972],
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "message":{
+          "startTime":"2019-08-16 07:34:15",
+          "endTime":"2019-08-16 09:30:05",
+          "address":"济南市历下区转山西路10号"
+        },
+        "description":"居住地：2h",
+        "icon":"居住地.png",
+        "iconSize": [40, 40]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.100044,
+          36.652307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "message":{
+          "startTime":"2019-08-16 11:50:10",
+          "endTime":"2019-08-16 14:40:05",
+          "address":"济南市公安局西院"
+        },
+        "description":"敏感地：3h",
+        "icon":"敏感地.png",
+        "iconSize": [40, 40]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.124586,
+          36.649105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "message":{
+          "startTime":"2019-08-16 15:10:10",
+          "endTime":"2019-08-16 22:40:05",
+          "address":"银座颐庭大酒店"
+        },
+        "description":"工作地：8h",
+        "icon":"workPlace.png",
+        "iconSize": [40, 40]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.117945,
+          36.662678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "message":{
+          "startTime":"2019-08-16 23:10:10",
+          "endTime":"2019-08-16 23:40:05",
+          "address":"山东省军区济南医院"
+        },
+        "description":"消失：0.5h",
+        "icon":"消失.png",
+        "iconSize": [40, 40]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.123578,
+          36.663134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "message":{
+          "startTime":"2019-08-16 15:50:10",
+          "endTime":"2019-08-16 16:40:05",
+          "address":"童林堡幼儿园"
+        },
+        "description":"外出长时间停留点：1h",
+        "icon":"外出长时间停留点.png",
+        "iconSize": [40, 40]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.130262,
+          36.65167
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "address": "开山村",
+    "type": "居住地",
+    "cuntPic": "1"
+  },
+  {
+    "id": "2",
+    "address": "辛寨胡家",
+    "type": "停留地",
+    "cuntPic": "1"
+  },
+  {
+    "id": "3",
+    "address": "辛寨田家",
+    "type": "停留地",
+    "cuntPic": "1"
+  }
+]

@@ -1,0 +1,123 @@
+import React, { Component} from 'react'
+import './person.less'
+import echarts  from 'echarts'
+
+export default class comcationEchartsModal extends Component{
+  constructor(props){
+    super(props)
+  }
+  render(){
+    return(
+      <div style={{height:'cala(100% - 30px)'}}></div>
+    )
+  }
+  componentDidMount() {
+    const domId=this.props.domId;
+    const data=this.props.data;
+    this.initEchartsModal(domId,data);
+  }
+
+  initEchartsModal(domId,data){
+    var myCharts = echarts.init(document.getElementById(domId));
+    window.onresize=myCharts.resize;
+    myCharts.setOption({
+    backgroundColor:'#0f1940',
+    grid:{
+      left:'3%',
+      right:'4%',
+      bottom:'3%',
+      containLabel:true,
+    },
+      tooltip:{
+        trigger:'axis',
+        formatter:`{c}`,
+        axisPointer:{
+          type:'none'
+        }
+      },
+      xAxis:[
+        {
+          type:'category',
+          data:data.xAxis,
+          axisLine:{
+            show:true,
+            lineStyle:{
+              color:'#234a8a',
+              width:1,
+              type:'solid'
+            }
+          },
+          axisTick:{
+            show:false
+          },
+          axisLabel:{
+            show:true,
+            textStyle:{
+              color:'#a7b1c9'
+            }
+          }
+        }],
+      yAxis:[
+        {
+          type:'value',
+          axisLabel:{
+            formatter:'{value}'
+          },
+          axisLine:{
+            show:true,
+            lineStyle:{
+              color:'#234a8a',
+              width:1,
+              type:'solid'
+            }
+          },
+          axisTick:{
+            show:false
+          },
+          splitLine:{
+            show:false
+          },
+        }],
+      series:[
+        {
+          name:'',
+          type:'bar',
+          symbolSize:[5,5],
+          symbolOffset:[0,-5],
+          symbolPosition:'end',
+          barWidth:'30',
+          color:'#387fd7',
+          label:{
+            normal:{
+              show:true,
+              position:'top',
+              formatter:`{c}`
+            }
+          },
+          data:data.yAxis,
+          markLine:{
+            silent:true,
+            symbol:'none',
+            label:{
+              position:'middle',
+              formatter:`{b}`
+            },
+            data:[
+              {
+                yAxis:data.targ,
+                lineStyle:{
+                  color:'#1db1c2',
+                  type:'solid'
+                },
+                label:{
+                  position:'end',
+                  formatter:`{c}`
+                }
+              }
+            ]
+          }
+        }
+      ]
+    })
+  }
+}

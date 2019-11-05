@@ -1,0 +1,187 @@
+@bg_blue: #182148;
+@border_color: #2775a6;
+@font_color: #b8c4ee;
+@hover_bg: #25346D;
+#result {
+    height: 100%;
+    padding: 0px 30px;
+    .line-left {
+        cursor: pointer;
+        .result-back {
+            color: #6191cb;
+            font-size: 16px;
+        }
+    }
+    .search-container {
+        height: "calc(100% - 70px)";
+        .search-tit {
+            color: @font_color;
+            font-size: 14px;
+        }
+        .ant-calendar-picker-input {
+            background: @bg_blue;
+            border-color: @border_color;
+            color: @font_color;
+        }
+        .ant-calendar-picker-icon {
+            color: @font_color;
+        }
+        .ant-select {
+            color: @font_color;
+            .ant-select-selection {
+                background: @bg_blue;
+                border-color: @border_color;
+                .ant-select-arrow {
+                    color: @font_color;
+                }
+            }
+        }
+        .batch-delete {
+            color: #903C3C;
+            cursor: pointer;
+        }
+    }
+    .table-content {
+        height: calc(100% - 120px);
+        background: rgba(10, 19, 50, .7);
+        margin-top: 10px;
+        padding: 10px;
+        color: @font_color;
+        font-size: 12px;
+        .table-box{
+            height:calc(100% - 40px);
+            .table-item {
+                width: 120px;
+                padding: 5px 10px;
+                text-align: center;
+            }
+            .td-index {
+                width: 140px;
+                display: flex;
+                align-items: center;
+            }
+            .td-id {
+                width: 200px;
+            }
+            .td-adress {
+                width: 300px;
+            }
+            .td-time {
+                width: 150px;
+            }
+            .td-source {
+                width: 150px;
+            }
+            .td-info {
+                width: 250px;
+            }
+            .td-operation {
+                width: 200px;
+            }
+        }
+        .page-box{
+            .ant-pagination {
+                li,
+                .ant-pagination-prev,
+                .ant-pagination-next {
+                    min-width: 30px;
+                    height: 30px;
+                    background: #132a5a;
+                    a {
+                        color: #fff;
+                    }
+                }
+                .ant-pagination-prev,
+                .ant-pagination-next {
+                    a {
+                        color: #000;
+                    }
+                }
+                .ant-pagination-jump-next,
+                .ant-pagination-jump-prev {
+                    .ant-pagination-item-ellipsis {
+                        color: #fff;
+                    }
+                }
+            }
+        }
+    }
+}
+
+.edit-modal {
+    position: fixed;
+    width: 520px;
+    height: 450px;
+    top: 160px;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin: 0 auto;
+    background: #0d244e;
+    z-index: 1000;
+    border: 14px solid #283667;
+    border-radius: 10px;
+    .edit-modal-content{
+        padding:20px 40px;
+        .edit-item{
+            height:40px;
+            font-size:14px;
+            .edit-label{
+                width:110px;
+                text-align:justify;
+                text-align-last:justify;
+            }
+        }
+    }
+    .modal-btn {
+        width: 80px;
+        height: 30px;
+        line-height: 30px;
+        border-radius: 5px;
+        background: #2e3d74;
+        color: #fff;
+        text-align: center;
+        cursor: pointer;
+        &:hover{
+            color:#b8c4ee;
+        }
+    }
+    .modal-btn-yes {
+        background: #a63b4b;
+    }
+}
+
+.addToKeyPerson-modal{
+    position: fixed;
+    width: 400px;
+    height: 150px;
+    top: 160px;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin: 0 auto;
+    background: #0d244e;
+    z-index: 1000;
+    border: 14px solid #283667;
+    border-radius: 10px;
+    .addToKeyPerson-modal-content{
+        font-size:16px;
+        padding-left:20px;
+    }
+    .modal-btn {
+        width: 80px;
+        height: 30px;
+        line-height: 30px;
+        border-radius: 5px;
+        background: #2e3d74;
+        color: #fff;
+        text-align: center;
+        cursor: pointer;
+        &:hover{
+            color:#b8c4ee;
+        }
+    }
+    .modal-btn-yes {
+        background: #a63b4b;
+    }
+}

@@ -1,0 +1,106 @@
+{
+  "centers":[117.074377,36.652054],
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "message":{
+          "startTime":"2019-11-07 06:24:15",
+          "endTime":"2019-11-07 09:30:05",
+          "address":"济南市窑头路东段3号"
+        },
+        "description":"居住地：3h",
+        "icon":"居住地.png",
+        "iconSize": [40, 40]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        117.084377,
+	36.655054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "message":{
+          "startTime":"2019-11-07 10:30:10",
+          "endTime":"2019-11-07 12:10:05",
+          "address":"山东省济南市历下区姚家历下洪山广场"
+        },
+        "description":"敏感地：2h",
+        "icon":"敏感地.png",
+        "iconSize": [40, 40]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         117.095044,
+	36.651552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "message":{
+          "startTime":"2019-11-07 13:20:10",
+          "endTime":"2019-11-07 20:50:05",
+          "address":"济南市历下区山大路201号"
+        },
+        "description":"工作地：8h",
+        "icon":"workPlace.png",
+        "iconSize": [40, 40]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.05548,
+	36.657221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "message":{
+          "startTime":"2019-11-07 21:30:10",
+          "endTime":"2019-11-07 22:30:05",
+          "address":"山东省济南市历下区环山路137号"
+        },
+        "description":"消失：1h",
+        "icon":"消失.png",
+        "iconSize": [40, 40]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        117.058606,
+	36.637763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "message":{
+          "startTime":"2019-11-07 23:20:10",
+          "endTime":"2019-11-07 23:45:05",
+          "address":"山东省济南市历下区旅游路"
+        },
+        "description":"停留地：1h",
+        "icon":"停留地.png",
+        "iconSize": [40, 40]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+       117.087076,
+	36.640074
+        ]
+      }
+    }
+  ]
+}

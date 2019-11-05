@@ -1,0 +1,88 @@
+.details{
+    // background: #000933;
+    color: #fff; 
+}
+.details-table{
+    .ant-table-thead > tr > th, .ant-table-tbody > tr > td{
+        padding: 5px 10px;
+        border-style: solid;
+        border-color: rgba(11, 31, 61,0.1);
+        border-width: 5px 7px 5px 7px;
+        text-align: center;
+        font-size: 12px;
+    }
+    .ant-table-thead > tr > th{
+        padding: 10px 10px;
+        color: #fff;
+        background: radial-gradient(rgba(82, 77, 77, 0) 0%, rgba(18, 64, 82,0.9) 90%);
+    }
+    .ant-table-tbody > tr{
+        &:hover{
+            td{
+                background: rgb(61, 66, 73);
+                color: #fff;
+            }
+        }
+    }
+    .ant-table-tbody > tr > td{
+        color: #39e6d9;
+        background: rgba(8, 20, 51, 0.8);
+        &:last-child{
+            text-align: left;
+        }
+        span.tag-name{
+            color: #fff;
+            &>span{
+                display: inline-block;
+                width: 40px;
+                height: 40px;
+                margin: 0 5px;
+                border-radius: 20px;
+            }
+            img{
+                width: 35px;
+                height: 35px;
+            }
+            .show{
+                display: inline-block;
+            }
+            .hide{
+                display: none;
+            }
+            // .red{
+            //     background: rgba(232, 85, 106, 0.15); 
+            // }
+            // .blue{
+            //     background: rgba(8, 156, 250, 0.15);
+            // }
+            // .orange{
+            //     background: rgba(230, 194, 54, 0.15);
+            // }
+            // .green{
+            //     background: rgba(113, 243, 174, 0.15);
+            // }
+        }
+    }
+    .ant-table-pagination{
+        .ant-pagination-item{
+            min-width: 25px;
+            height: 25px;
+            line-height: 25px;
+            background: rgb(61, 66, 73);
+            border:none;
+            a{
+                color: #39e6d9;
+            }
+        }
+        .ant-pagination-prev, .ant-pagination-next, .ant-pagination-jump-prev, .ant-pagination-jump-next{
+            min-width: 25px;
+            height: 25px;
+            line-height: 25px;
+        }
+        .ant-pagination-prev .ant-pagination-item-link, .ant-pagination-next .ant-pagination-item-link{
+            color: #39e6d9;
+            background: rgb(61, 66, 73);
+            border:none;
+        }
+    }
+}

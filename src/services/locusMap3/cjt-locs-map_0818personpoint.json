@@ -1,0 +1,124 @@
+{
+  "centers": [
+    116.975704336497,
+    36.6492438938269
+  ],
+  "features": [
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-08 00:15:30",
+          "address": "济南市振兴花园",
+          "endTime": "2019-11-08 07:37:08"
+        },
+        "icon": "居住地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "居住地：7h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.975704336497,
+          36.6492438938269
+        ]
+      }
+    },
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-08 09:25:52",
+          "address": "济南市通信管理局",
+          "endTime": "2019-11-08 13:32:25"
+        },
+        "icon": "工作地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "工作地：4h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.999733399508,
+          36.6455807183359
+        ]
+      }
+    },
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-08 14:05:32",
+          "address": "济南市传染病医院",
+          "endTime": "2019-11-08 18:02:25"
+        },
+        "icon": "敏感地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "敏感地：4h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.98833438735201,
+          36.6497744567176
+        ]
+      }
+    },
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-08 18:35:12",
+          "address": "济南市兴盛小区",
+          "endTime": "2019-11-08 20:20:25"
+        },
+        "icon": "停留地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "停留地：2h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.979348988026,
+          36.652315594064895
+        ]
+      }
+    },
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-08 21:15:16",
+          "address": "济南市振兴花园",
+          "endTime": "2019-11-08 23:57:48"
+        },
+        "icon": "居住地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "居住地：2h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.975704336497,
+          36.6492438938269
+        ]
+      }
+    }
+  ],
+  "type": "FeatureCollection"
+}

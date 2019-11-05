@@ -1,0 +1,78 @@
+{
+  "centers": [
+    116.854528483397,
+    36.5642177098676
+  ],
+  "features": [
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-07 00:30:24",
+          "address": "开山村",
+          "endTime": "2019-11-07 08:12:48"
+        },
+        "icon": "居住地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "居住地：8h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.854528483397,
+          36.5642177098676
+        ]
+      }
+    },
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-07 08:04:12",
+          "address": "辛寨胡家",
+          "endTime": "2019-11-07 11:11:45"
+        },
+        "icon": "停留地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "停留地：3h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.48484540647,
+          36.920167549136096
+        ]
+      }
+    },
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-07 12:30:46",
+          "address": "辛寨田家",
+          "endTime": "2019-11-07 15:45:01"
+        },
+        "icon": "停留地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "停留地：3h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.48886682946001,
+          36.907006588010695
+        ]
+      }
+    }
+  ],
+  "type": "FeatureCollection"
+}

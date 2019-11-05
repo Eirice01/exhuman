@@ -1,0 +1,124 @@
+{
+  "centers": [
+    117.211224320555,
+    36.8610322718533
+  ],
+  "features": [
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-08 00:30:00",
+          "address": "飞机场",
+          "endTime": "2019-11-08 04:05:00"
+        },
+        "icon": "敏感地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "敏感地：3.58h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.211224320555,
+          36.8610322718533
+        ]
+      }
+    },
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-08 04:44:00",
+          "address": "高官寨官庄",
+          "endTime": "2019-11-08 10:20:00"
+        },
+        "icon": "停留地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "停留地：5.6h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.26582616956,
+          36.933831878711
+        ]
+      }
+    },
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-08 10:43:00",
+          "address": "遥墙机场收费站",
+          "endTime": "2019-11-08 15:39:00"
+        },
+        "icon": "敏感地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "敏感地：4.93h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.204931236155,
+          36.8425287796645
+        ]
+      }
+    },
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-08 15:53:00",
+          "address": "张灵丘",
+          "endTime": "2019-11-08 18:18:00"
+        },
+        "icon": "停留地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "停留地：2.41h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.2092079507,
+          36.6935113429843
+        ]
+      }
+    },
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-08 18:38:00",
+          "address": "武警大队",
+          "endTime": "2019-11-08 21:02:00"
+        },
+        "icon": "敏感地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "敏感地：2.4h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.1762409625,
+          36.6671029228339
+        ]
+      }
+    }
+  ],
+  "type": "FeatureCollection"
+}

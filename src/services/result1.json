@@ -1,0 +1,133 @@
+[{
+    "time": "2019-11-09 21:22:30",
+    "keyPerson": false,
+    "idNum": "370105198805284319",
+    "responsible": "济南市天桥分局",
+    "source": "系统推送",
+    "address": "济南市天桥区金桥新苑",
+    "name": "李波",
+    "checked": false,
+    "info": "待处理"
+  },
+  {
+    "time": "2019-11-09 20:22:30",
+    "keyPerson": false,
+    "idNum": "370113198201052156",
+    "responsible": "济南市槐荫分局",
+    "source": "技侦下发",
+    "address": "济南市下历区花园路奥体西路2377号",
+    "name": "陈建涛",
+    "checked": false,
+    "info": "待处理"
+  },
+  {
+    "time": "2019-11-09 19:46:44",
+    "keyPerson": false,
+    "idNum": "370102199010091813",
+    "responsible": "济南市章丘分局",
+    "source": "系统推送",
+    "address": "济南市章丘区平普路七郎院村",
+    "name": "邓峰国",
+    "checked": false,
+    "info": "已经核实，已对人员进行疏导和告诫"
+  },
+  {
+    "time": "2019-11-09 18:22:30",
+    "keyPerson": false,
+    "idNum": "370105197506210043",
+    "responsible": "济南市槐荫分局",
+    "source": "系统推送",
+    "address": "济南市槐荫区腊山南路1号",
+    "name": "王金霞",
+    "checked": false,
+    "info": "待处理"
+  },
+  {
+    "time": "2019-11-09 08:20:30",
+    "keyPerson": false,
+    "idNum": "370102197907230618",
+    "responsible": "济南市长清分局",
+    "source": "技侦下发",
+    "address": "济南市长清区104国道",
+    "name": "梁兴力",
+    "checked": false,
+    "info": "待处理"
+  },
+  {
+    "time": "2019-11-09 07:35:30",
+    "keyPerson": false,
+    "idNum": "370112199011080613",
+    "responsible": "济南市历城分局",
+    "source": "系统推送",
+    "address": "济南市历下区姚家村",
+    "name": "雷超",
+    "checked": false,
+    "info": "已经核实，人员情绪已稳定"
+  },
+  {
+    "time": "2019-11-09 07:33:30",
+    "keyPerson": false,
+    "idNum": "370101197312250154",
+    "responsible": "济南市槐荫分局",
+    "source": "系统推送",
+    "address": "济南市西客站安置一区地块号楼",
+    "name": "刘能",
+    "checked": false,
+    "info": "已经核实，人员情绪已稳定"
+  },
+  {
+    "time": "2019-11-09 07:22:30",
+    "keyPerson": false,
+    "idNum": "370102198811160554",
+    "responsible": "济南市天桥分局",
+    "source": "系统推送",
+    "address": "济南市景润园小区",
+    "name": "张勇",
+    "checked": false,
+    "info": "已经核实，无异常现象"
+  },
+  {
+    "time": "2019-11-09 07:22:30",
+    "keyPerson": false,
+    "idNum": "370113198905060075",
+    "responsible": "济南市济阳分局",
+    "source": "系统推送",
+    "address": "济阳崔寨镇武大村",
+    "name": "杨思敏",
+    "checked": false,
+    "info": "已经核实，将会进一步跟进"
+  },
+  {
+    "time": "2019-11-09 07:22:30",
+    "keyPerson": false,
+    "idNum": "370100198502125356",
+    "responsible": "济南市历下分局",
+    "source": "系统推送",
+    "address": "济南市历下区旅游路1777号",
+    "name": "张润军",
+    "checked": false,
+    "info": "已经核实，人员情绪已稳定"
+  },
+  {
+    "time": "2019-11-09 07:22:30",
+    "keyPerson": false,
+    "idNum": "370100198802125346",
+    "responsible": "济南市历下分局",
+    "source": "系统推送",
+    "address": "济南市历下区盛福家园",
+    "name": "李华",
+    "checked": false,
+    "info": "已经核实，人员情绪已稳定"
+  },
+  {
+    "time": "2019-11-09 07:22:30",
+    "keyPerson": false,
+    "idNum": "370100198702125556",
+    "responsible": "济南市历下分局",
+    "source": "系统推送",
+    "address": "济南市历下区友谊苑",
+    "name": "王依",
+    "checked": false,
+    "info": "已经核实，人员情绪已稳定"
+  }
+]

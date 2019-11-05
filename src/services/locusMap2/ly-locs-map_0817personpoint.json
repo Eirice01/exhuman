@@ -1,0 +1,106 @@
+{
+  "centers":[116.7942810059,36.5883792069],
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "message":{
+          "startTime":"2019-08-17 06:34:15",
+          "endTime":"2019-08-17 09:20:05",
+          "address":"山东省济南市长清区平安北路"
+        },
+        "description":"居住地：3h",
+        "icon":"居住地.png",
+        "iconSize": [40, 40]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.7935260000,
+          36.5989750000
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "message":{
+          "startTime":"2019-08-17 10:20:10",
+          "endTime":"2019-08-17 12:20:05",
+          "address":"山东省济南市长清区平安南路"
+        },
+        "description":"敏感地：2h",
+        "icon":"敏感地.png",
+        "iconSize": [40, 40]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.8017730000,
+          36.5889560000
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "message":{
+          "startTime":"2019-08-17 13:30:10",
+          "endTime":"2019-08-17 20:40:05",
+          "address":"山东省济南市长清区经十西路10501号"
+        },
+        "description":"工作地：8h",
+        "icon":"workPlace.png",
+        "iconSize": [40, 40]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.7981610000,
+          36.5952310000
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "message":{
+          "startTime":"2019-08-17 21:40:10",
+          "endTime":"2019-08-17 22:40:05",
+          "address":"山东省济南市长清区富美路"
+        },
+        "description":"消失：1h",
+        "icon":"消失.png",
+        "iconSize": [40, 40]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.7990446091,
+          36.5983714894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "message":{
+          "startTime":"2019-08-17 23:10:10",
+          "endTime":"2019-08-17 23:55:05",
+          "address":"山东省济南市长清区220国道"
+        },
+        "description":"外出长时间停留点：1h",
+        "icon":"外出长时间停留点.png",
+        "iconSize": [40, 40]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.7206430000,
+          36.5097800000
+        ]
+      }
+    }
+  ]
+}

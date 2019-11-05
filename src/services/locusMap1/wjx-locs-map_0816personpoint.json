@@ -1,0 +1,101 @@
+{
+  "centers": [
+    116.933634,
+    36.641935
+  ],
+  "features": [
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-06 00:01:18",
+          "address": "济南市世纪中华城",
+          "endTime": "2019-11-06 08:51:12"
+        },
+        "icon": "居住地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "居住地：9h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.933634,
+          36.641935
+        ]
+      }
+    },
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-06 10:19:20",
+          "address": "山东大学体育学院",
+          "endTime": "2019-08-18 14:02:32"
+        },
+        "icon": "敏感地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "敏感地：4h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.028736989532,
+          36.6466564254264
+        ]
+      }
+    },
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-06 14:41:15",
+          "address": "山东师范大学",
+          "endTime": "2019-11-06 19:08:05"
+        },
+        "icon": "敏感地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "敏感地：4h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.02547209572201,
+          36.6510377820405
+        ]
+      }
+    },
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-06 20:16:48",
+          "address": " 济南市世纪中华城",
+          "endTime": "2019-11-06 23:57:14"
+        },
+        "icon": "居住地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "居住地：9h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.933634,
+          36.641935
+        ]
+      }
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,55 @@
+{
+  "centers": [
+    117.014393225033,
+    36.7041012193513
+  ],
+  "features": [
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-07 8:33:10",
+          "address": "济南市黄台家居市场",
+          "endTime": "2019-11-07 18:40:43"
+        },
+        "icon": "工作地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "工作地：9h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.014393225033,
+          36.7041012193513
+        ]
+      }
+    },
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-07 19:49:10",
+          "address": "济南市林山设备厂",
+          "endTime": "2019-11-07 20:40:45"
+        },
+        "icon": "停留地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "停留地：1h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.009764053309,
+          36.7111518284878
+        ]
+      }
+    }
+  ],
+  "type": "FeatureCollection"
+}

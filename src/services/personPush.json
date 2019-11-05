@@ -1,0 +1,16 @@
+{
+  "fenju":
+  {
+    "pushNum" : "10",
+    "dispatchNum" : "2"
+  },
+  "shequ":
+  {
+    "pushNum" : "10"
+  },
+  "guankong":
+  {
+    "pushNum" : "3" ,
+    "dispatchNum" : "0"
+  }
+}

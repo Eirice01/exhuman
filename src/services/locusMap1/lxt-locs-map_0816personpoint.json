@@ -1,0 +1,105 @@
+{ "centers":[117.0254063498,36.6489380073],
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "message":{
+          "startTime":"2019-08-16 07:34:15",
+          "endTime":"2019-08-16 09:30:05",
+          "address":"山东省济南市历下区309国道"
+        },
+        "description":"居住地：5h",
+        "icon":"居住地.png",
+        "iconSize": [40, 40]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.0282534400,
+          36.6507288700
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "message":{
+          "startTime":"2019-08-16 11:50:10",
+          "endTime":"2019-08-16 14:40:05",
+          "address":"山东省济南市历下区健康路7号"
+        },
+        "description":"敏感地：4h",
+        "icon":"敏感地.png",
+        "iconSize": [40, 40]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.0290112387,
+          36.6494200424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "message":{
+          "startTime":"2019-08-16 15:10:10",
+          "endTime":"2019-08-16 22:40:05",
+          "address":"山东省济南市历下区千佛山路6号"
+        },
+        "description":"工作地：8h",
+        "icon":"workPlace.png",
+        "iconSize": [40, 40]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.0261573683,
+          36.6490757319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "message":{
+          "startTime":"2019-08-16 23:10:10",
+          "endTime":"2019-08-16 23:40:05",
+          "address":"山东省济南市历下区青年东路"
+        },
+        "description":"消失：0.5h",
+        "icon":"消失.png",
+        "iconSize": [40, 40]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.0187720237,
+          36.6495156143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "message":{
+          "startTime":"2019-08-16 15:50:10",
+          "endTime":"2019-08-16 16:40:05",
+          "address":"山东省济南市历下区贝尔路"
+        },
+        "description":"外出长时间停留点：1h",
+        "icon":"外出长时间停留点.png",
+        "iconSize": [40, 40]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.0234751593,
+          36.6472336448
+        ]
+      }
+    }
+  ]
+}

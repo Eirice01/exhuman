@@ -1,0 +1,105 @@
+{ "centers":[117.1122657455,36.6901593925],
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "message":{
+          "startTime":"2019-11-06 08:00:00",
+          "endTime":"2019-11-06 09:45:05",
+          "address":"济南市历下区中林路9号"
+        },
+        "description":"居住地：2h",
+        "icon":"居住地.png",
+        "iconSize": [40, 40]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+       117.1131733700,
+	36.6968289800
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "message":{
+          "startTime":"2019-11-06 11:58:12",
+          "endTime":"2019-11-06 14:35:05",
+          "address":"济南市历下区中林路66号"
+        },
+        "description":"敏感地：3h",
+        "icon":"敏感地.png",
+        "iconSize": [40, 40]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+       117.1040329100,
+	36.7005843600
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "message":{
+          "startTime":"2019-11-06 15:00:00",
+          "endTime":"2019-11-06 22:22:05",
+          "address":"济南市历下区花园东路与奥体西路交界口西行500米路北"
+        },
+        "description":"工作地：8h",
+        "icon":"workPlace.png",
+        "iconSize": [40, 40]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.1051949926,
+	36.6936131695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "message":{
+          "startTime":"2019-11-06 23:20:10",
+          "endTime":"2019-11-06 23:35:05",
+          "address":"山东省济南市历下区舜华路街道康虹路1266号"
+        },
+        "description":"消失：0.5h",
+        "icon":"消失.png",
+        "iconSize": [40, 40]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.1148835815,
+	36.6885505826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "message":{
+          "startTime":"2019-11-06 15:12:10",
+          "endTime":"2019-11-06 16:33:05",
+          "address":"山东省济南市历下区康虹路1588号"
+        },
+        "description":"停留地：1h",
+        "icon":"停留地.png",
+        "iconSize": [40, 40]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.1114980600,
+	36.6875083000
+        ]
+      }
+    }
+  ]
+}

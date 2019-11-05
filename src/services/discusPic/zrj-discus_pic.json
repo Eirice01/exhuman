@@ -1,0 +1,17 @@
+{
+  "data": [
+    {
+      "name": "逾期",
+      "emotionalState": 0.4,
+      "value": "欠款已逾期",
+      "number": 1
+    },
+    {
+      "name": "宗教",
+      "emotionalState": 0.2,
+      "value": "真主会保佑你",
+      "number": 2
+    }
+  ],
+  "mianWord": "贷款"
+}

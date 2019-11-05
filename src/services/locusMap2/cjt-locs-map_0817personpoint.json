@@ -1,0 +1,101 @@
+{
+  "centers": [
+    116.975704336497,
+    36.6492438938269
+  ],
+  "features": [
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-07 00:50:10",
+          "address": "济南市振兴花园",
+          "endTime": "2019-11-07 07:40:05"
+        },
+        "icon": "居住地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "居住地：7h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.975704336497,
+          36.6492438938269
+        ]
+      }
+    },
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-07 09:45:10",
+          "address": "济南市通信管理局",
+          "endTime": "2019-11-07 18:12:05"
+        },
+        "icon": "工作地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "工作地：8h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.999733399508,
+          36.6455807183359
+        ]
+      }
+    },
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-07 19:20:43",
+          "address": "济南市和谐广场",
+          "endTime": "2019-11-07 19:58:05"
+        },
+        "icon": "停留地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "停留地：1h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.979097664286,
+          36.6493431148664
+        ]
+      }
+    },
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-07 20:03:48",
+          "address": "济南市振兴花园",
+          "endTime": "2019-11-07 23:49:01"
+        },
+        "icon": "居住地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "居住地：4h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.975704336497,
+          36.6492438938269
+        ]
+      }
+    }
+  ],
+  "type": "FeatureCollection"
+}

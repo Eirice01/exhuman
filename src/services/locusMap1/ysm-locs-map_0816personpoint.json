@@ -1,0 +1,124 @@
+{
+  "centers": [
+    117.20070545673701,
+    36.995415386413896
+  ],
+  "features": [
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-06 10:32:12",
+          "address": "盐业公司济阳分公司",
+          "endTime": "2019-11-06 11:41:11"
+        },
+        "icon": "工作地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "工作地：1h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.20070545673701,
+          36.995415386413896
+        ]
+      }
+    },
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-06 12:02:07",
+          "address": "济阳青宁小贾家",
+          "endTime": "2019-11-06 14:10:51"
+        },
+        "icon": "停留地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "停留地：2h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.08814003652401,
+          36.8885941182277
+        ]
+      }
+    },
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-06 14:45:01",
+          "address": "济阳回河工业园",
+          "endTime": "2019-11-06 17:40:42"
+        },
+        "icon": "停留地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "停留地：3h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.118634761018,
+          36.920196640694996
+        ]
+      }
+    },
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-06 18:05:41",
+          "address": "崔寨李善仁村中部",
+          "endTime": "2019-11-06 21:14:22"
+        },
+        "icon": "停留地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "停留地：3h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.112768551391,
+          36.8906111077403
+        ]
+      }
+    },
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-06 21:59:52",
+          "address": "济阳济南新都钢管",
+          "endTime": "2019-11-06 23:01:03"
+        },
+        "icon": "停留地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "停留地：1"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.163915685876,
+          36.9498800171277
+        ]
+      }
+    }
+  ],
+  "type": "FeatureCollection"
+}

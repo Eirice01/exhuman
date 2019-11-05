@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "address": "联通槐荫区福牌阿胶",
+    "type": "工作地",
+    "cuntPic": "1"
+  },
+  {
+    "id": "2",
+    "address": "联通槐荫人民医院",
+    "type": "敏感地",
+    "cuntPic": "1"
+  },
+  {
+    "id": "3",
+    "address": "百事春秋",
+    "type": "停留地",
+    "cuntPic": "1"
+  },
+  {
+    "id": "4",
+    "address": "妙派",
+    "type": "停留地",
+    "cuntPic": "1"
+  },
+  {
+    "id": "5",
+    "address": "十一中",
+    "type": "敏感地",
+    "cuntPic": "1"
+  }
+]

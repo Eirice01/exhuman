@@ -1,0 +1,190 @@
+[
+  {
+    "id": "#0",
+    "label": "瘦肉群",
+    "percent": "84%",
+    "collect": false,
+    "name": "王军",
+    "tel": "17804771876",
+    "idCard": "3701001982[object Math]8610",
+    "aberrant": [
+      {
+        "label": "在控重点人",
+        "value": "Blue"
+      },
+      {
+        "label": "涉贷",
+        "value": "Orange"
+      }
+    ],
+    "AbnormalBehavior": "异常位置极高，频繁出入敏感地"
+  },
+  {
+    "id": "#1",
+    "label": "high",
+    "percent": "30%",
+    "collect": false,
+    "name": "张林",
+    "tel": "13972802325",
+    "idCard": "3701001988[object Math]5880",
+    "aberrant": [
+      {
+        "label": "极端人",
+        "value": "Red"
+      },
+      {
+        "label": "在控重点人",
+        "value": "Blue"
+      }
+    ],
+    "AbnormalBehavior": "异常位置极高，频繁出入敏感地"
+  },
+  {
+    "id": "#2",
+    "label": "还愿",
+    "percent": "31%",
+    "collect": false,
+    "name": "刘彤",
+    "tel": "17124595345",
+    "idCard": "3701001982[object Math]7753",
+    "aberrant": [
+      {
+        "label": "极端人",
+        "value": "Red"
+      },
+      {
+        "label": "在控重点人",
+        "value": "Blue"
+      }
+    ],
+    "AbnormalBehavior": "异常位置极高，频繁出入敏感地"
+  },
+  {
+    "id": "#3",
+    "label": "翻车",
+    "percent": "44%",
+    "collect": false,
+    "name": "李苏",
+    "tel": "12179415112",
+    "idCard": "3701001981[object Math]0676",
+    "aberrant": [
+      {
+        "label": "在控重点人",
+        "value": "Blue"
+      },
+      {
+        "label": "涉贷",
+        "value": "Orange"
+      }
+    ],
+    "AbnormalBehavior": "异常位置极高，频繁出入敏感地"
+  },
+  {
+    "id": "#4",
+    "label": "还愿",
+    "percent": "21%",
+    "collect": false,
+    "name": "杨可欣",
+    "tel": "11576273749",
+    "idCard": "3701001986[object Math]9876",
+    "aberrant": [
+      {
+        "label": "极端人",
+        "value": "Red"
+      },
+      {
+        "label": "在控重点人",
+        "value": "Blue"
+      }
+    ],
+    "AbnormalBehavior": "异常位置极高，频繁出入敏感地"
+  },
+  {
+    "id": "#5",
+    "label": "小电视",
+    "percent": "16%",
+    "collect": false,
+    "name": "李玉",
+    "tel": "17410767261",
+    "idCard": "3701001984[object Math]9776",
+    "aberrant": [
+      {
+        "label": "在控重点人",
+        "value": "Blue"
+      }
+    ],
+    "AbnormalBehavior": "异常位置极高，频繁出入敏感地"
+  },
+  {
+    "id": "#6",
+    "label": "窑口",
+    "percent": "34%",
+    "collect": false,
+    "name": "杨寻",
+    "tel": "14197824250",
+    "idCard": "3701001983[object Math]4645",
+    "aberrant": [
+      {
+        "label": "涉贷",
+        "value": "Orange"
+      }
+    ],
+    "AbnormalBehavior": "异常位置极高，频繁出入敏感地"
+  },
+  {
+    "id": "#7",
+    "label": "小电视",
+    "percent": "21%",
+    "collect": false,
+    "name": "谢终辉",
+    "tel": "18686694503",
+    "idCard": "3701001980[object Math]7146",
+    "aberrant": [
+      {
+        "label": "在控重点人",
+        "value": "Blue"
+      }
+    ],
+    "AbnormalBehavior": "异常位置极高，频繁出入敏感地"
+  },
+  {
+    "id": "#8",
+    "label": "打麻雀",
+    "percent": "25%",
+    "collect": false,
+    "name": "胡乐",
+    "tel": "16459110988",
+    "idCard": "3701001989[object Math]2884",
+    "aberrant": [
+      {
+        "label": "在控重点人",
+        "value": "Blue"
+      },
+      {
+        "label": "涉贷",
+        "value": "Orange"
+      }
+    ],
+    "AbnormalBehavior": "异常位置极高，频繁出入敏感地"
+  },
+  {
+    "id": "#9",
+    "label": "坐上铺",
+    "percent": "80%",
+    "collect": false,
+    "name": "赵莉",
+    "tel": "13689033413",
+    "idCard": "3701001983[object Math]5436",
+    "aberrant": [
+      {
+        "label": "极端人",
+        "value": "Red"
+      },
+      {
+        "label": "在控重点人",
+        "value": "Blue"
+      }
+    ],
+    "AbnormalBehavior": "异常位置极高，频繁出入敏感地"
+  }
+]

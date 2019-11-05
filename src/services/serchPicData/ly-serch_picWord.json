@@ -1,0 +1,56 @@
+﻿{
+"data":[
+
+    {
+    "name":"砍刀",
+    "value":"砍刀比匕首杀伤力强吗",
+    "number":1
+    },
+    {
+
+    "name":"去死",
+    "value":"你可以去死了",
+    "number":2
+    },
+    {
+      "name":"汽油",
+      "value":"汽油价格",
+      "number":3
+    },
+  {
+    "name":"胶带",
+    "value":"怎么缠结实",
+    "number":4
+  },
+  {
+    "name":"麻绳",
+    "value":"麻绳怎么勒死人",
+    "number":6
+  },
+  {
+    "name":"射杀",
+    "value":"射杀贱人",
+    "number":7
+  },
+  {
+    "name":"埋尸",
+    "value":"埋尸地点",
+    "number":8
+  },
+  {
+    "name":"落难",
+    "value":"落难人数",
+    "number":9
+  },
+  {
+    "name":"郊外",
+    "value":"郊外去哪儿玩",
+    "number":10
+  },
+  {
+    "name":"害人",
+    "value":"害人不浅",
+    "number":7
+  }
+]
+}

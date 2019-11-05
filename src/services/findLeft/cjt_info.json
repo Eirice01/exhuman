@@ -1,0 +1,50 @@
+{
+  "tags": [
+    {
+      "title": "情绪负面",
+      "color": "#088ce2",
+      "borColor": "#2f75d2",
+      "bg": "#0e233e"
+    },
+    {
+      "title": "敏感内容",
+      "color": "#088ce2",
+      "borColor": "#2f75d2",
+      "bg": "#0e233e"
+    }
+  ],
+  "discusCunt": "79%",
+  "locusDisper": " ",
+  "tel": "13001733474",
+  "cation": [
+    "通联习惯无异常"
+  ],
+  "locusAddress": [
+    "进出传染病医院：于2019年11月10日进出传染病医院"
+  ],
+  "message": [
+    "发送了“倒霉”并传播给5人",
+    "发送“艾滋”传播给2人"
+  ],
+  "discus": [
+    "报复",
+    "拉垫背"
+  ],
+  "abover": "0%",
+  "address": "济南市下历区花园路奥体西路2377号",
+  "search": [
+    "艾滋病",
+    "感染",
+    "传播"
+  ],
+  "name": "陈建涛",
+  "radius": "64%",
+  "specialAddress": [
+    "出入传染病医院"
+  ],
+  "warning": 1,
+  "sensitiveWords": [
+    "艾滋病",
+    "垫背"
+  ]
+}

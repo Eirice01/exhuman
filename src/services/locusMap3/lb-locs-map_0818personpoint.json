@@ -1,0 +1,55 @@
+{
+  "centers": [
+    117.014393225033,
+    36.7041012193513
+  ],
+  "features": [
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-08 8:35:14",
+          "address": "济南市黄台家居市场",
+          "endTime": "2019-11-08 18:24:22"
+        },
+        "icon": "工作地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "工作地：9h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.014393225033,
+          36.7041012193513
+        ]
+      }
+    },
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-08 20:29:30",
+          "address": "美里新居东",
+          "endTime": "2019-11-08 22:20:45"
+        },
+        "icon": "停留地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "停留地：2h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.94943010056501,
+          36.6962931287571
+        ]
+      }
+    }
+  ],
+  "type": "FeatureCollection"
+}

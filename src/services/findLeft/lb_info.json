@@ -1,0 +1,43 @@
+{
+  "tags": [
+    {
+      "title": "涉嫌犯罪",
+      "color": "#088ce2",
+      "borColor": "#2f75d2",
+      "bg": "#0e233e"
+    }
+  ],
+  "discusCunt": "36%",
+  "locusDisper": "于2019年11月8日 21:22:30在济南市天桥区美里新居东消失",
+  "tel": "15610180458",
+  "cation": [
+    "通联习惯无太大异常"
+  ],
+  "locusAddress": [
+    "未出入敏感地"
+  ],
+  "message": [
+    "发送了“买狗”（枪支黑话）并发送给3人"
+  ],
+  "discus": [
+    "爱狗",
+    "秃鹫",
+    "管子"
+  ],
+  "abover": "10%",
+  "address": "济南市天桥区金桥新苑",
+  "search": [
+    "秃鹰",
+    "爱狗",
+    "打鸟"
+  ],
+  "name": "李波",
+  "radius": "75%",
+  "specialAddress": [
+    "无"
+  ],
+  "warning": 1,
+  "sensitiveWords": [
+    "枪支"
+  ]
+}

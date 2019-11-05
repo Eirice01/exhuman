@@ -1,0 +1,101 @@
+{
+  "centers": [
+    116.854528483397,
+    36.5642177098676
+  ],
+  "features": [
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-08 01:56:03",
+          "address": "开山村",
+          "endTime": "2019-11-08 07:13:22"
+        },
+        "icon": "停留地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "停留地：6h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.854528483397,
+          36.5642177098676
+        ]
+      }
+    },
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-08 08:10:11",
+          "address": "辛寨鲍家",
+          "endTime": "2019-11-08 09:20:00"
+        },
+        "icon": "停留地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "停留地：1h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.516139726125,
+          36.916712393845096
+        ]
+      }
+    },
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-08 10:30:00",
+          "address": "吉家",
+          "endTime": "2019-11-08 18:45:01"
+        },
+        "icon": "工作地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "工作地：1h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.473759244077,
+          36.9155942687961
+        ]
+      }
+    },
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-08 20:00:03",
+          "address": "圣翰财经学院食堂楼",
+          "endTime": "2019-11-08 21:06:12"
+        },
+        "icon": "停留地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "停留地：1h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.85026573453601,
+          36.5666964565578
+        ]
+      }
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,170 @@
+{
+  "centers": [
+    117.126025595442,
+    36.6311978051645
+  ],
+  "features": [
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-06 08:22:00",
+          "address": "新孟家",
+          "endTime": "2019-11-06 10:02:23"
+        },
+        "icon": "停留地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "停留地：2h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.126025595442,
+          36.6311978051645
+        ]
+      }
+    },
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-06 10:14:22",
+          "address": "锦屏家园老石沟",
+          "endTime": "2019-11-06 11:03:00"
+        },
+        "icon": "停留地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "停留地：1h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.12122745418601,
+          36.6294215111188
+        ]
+      }
+    },
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-06 11:08:11",
+          "address": "济南市公安局东楼",
+          "endTime": "2019-11-06 12:54:22"
+        },
+        "icon": "停留地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "停留地：2h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.126675264496,
+          36.6488397172381
+        ]
+      }
+    },
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-06 13:02:33",
+          "address": "奥龙官邸号楼",
+          "endTime": "2019-11-06 14:56:22"
+        },
+        "icon": "停留地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "停留地：2h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.12946391052101,
+          36.6524172441664
+        ]
+      }
+    },
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-06 14:59:36",
+          "address": "桂花园南区",
+          "endTime": "2019-11-06 17:20:17"
+        },
+        "icon": "居住地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "居住地：3h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.125849468449,
+          36.6379619489344
+        ]
+      }
+    },
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-06 17:26:23",
+          "address": "警察博物馆",
+          "endTime": "2019-11-06 18:30:20"
+        },
+        "icon": "停留地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "停留地：1h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.132613128122,
+          36.649091949439004
+        ]
+      }
+    },
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-06 18:40:22",
+          "address": "济南市公安局东楼",
+          "endTime": "2019-11-06 20:24:02"
+        },
+        "icon": "停留地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "停留地：2h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.126675264496,
+          36.6488397172381
+        ]
+      }
+    }
+  ],
+  "type": "FeatureCollection"
+}

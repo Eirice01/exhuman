@@ -1,0 +1,78 @@
+{
+  "centers": [
+    117.20070545673701,
+    36.995415386413896
+  ],
+  "features": [
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-08 08:21:35",
+          "address": "盐业公司济阳分公司",
+          "endTime": "2019-11-08 09:31:44"
+        },
+        "icon": "工作地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "工作地：1h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.20070545673701,
+          36.995415386413896
+        ]
+      }
+    },
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-08 12:22:33",
+          "address": "北赵村",
+          "endTime": "2019-11-08 13:24:19"
+        },
+        "icon": "停留地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "停留地：1h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.114714519851,
+          36.8548928019095
+        ]
+      }
+    },
+    {
+      "properties": {
+        "message": {
+          "startTime": "2019-11-08 15:37:48",
+          "address": "济阳崔寨镇武大村",
+          "endTime": "2019-11-08 17:45:37"
+        },
+        "icon": "居住地.png",
+        "iconSize": [
+          40,
+          40
+        ],
+        "description": "居住地：2h"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.089474747839,
+          36.869583437814
+        ]
+      }
+    }
+  ],
+  "type": "FeatureCollection"
+}
